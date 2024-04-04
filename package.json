@@ -1,0 +1,14 @@
+{
+  "name": "sem3finalsprint",
+  "version": "1.0.0",
+  "description": "The focus of this FINAL sprint project is the creation of a Full-Stack application using the following technologies; Node, Express, EJS (or some other view engine - framework like React.js), MongoDB, and PostgreSQL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

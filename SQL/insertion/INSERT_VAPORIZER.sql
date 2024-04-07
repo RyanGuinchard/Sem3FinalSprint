@@ -1,6 +1,5 @@
 -- Inserting 510 VAPE CARTRIDGES data
-INSERT INTO public.vaporizer (class, name, size, strength, disposable, price) 
-VALUES 
+INSERT INTO public.vaporizer (class, name, size, strength, disposable, price) VALUES 
 ('Indica', 'Back Forty | Kush Mint Cart', 1, '90.0', false, '$36.99'),
 ('Hybrid', 'Booty | Peppermint OG Cart', 1, '83.9', false, '$36.99'),
 ('Sativa', 'Booty | Tangie Cart', 1, '84.6', false, '$36.99'),

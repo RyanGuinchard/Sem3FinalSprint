@@ -5,7 +5,7 @@ CREATE TABLE public.vaporizer
     name character varying(255) NOT NULL,
     size numeric NOT NULL,
     strength character varying(255) NOT NULL,
-    dispoable boolean NOT NULL,
+    disposable boolean NOT NULL,
     price character varying NOT NULL,
     PRIMARY KEY (id)
 );

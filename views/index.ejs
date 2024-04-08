@@ -1,1 +1,25 @@
 <%- include('./partials/header.ejs') %>
+<body>
+    <h1>Welcome to the GreenStop Inventory</h1>
+  <nav>
+    <ul>
+      <li><a href="#">Prerolls</a></li>
+      <li><a href="#">Flower</a></li>
+      <li><a href="#">Concentrate</a></li>
+      <li><a href="#">Edibles</a></li>
+      <li><a href="#">Vaporizers</a></li>
+    </ul>
+    <div>
+        <% if (isLoggedIn) { %>
+          <a href="/users/logout"><button class="logout-btn">Logout</button></a>
+        <% } else { %>
+          <a href="/users/login"><button class="signin-btn">Sign In</button></a>
+        <% } %>
+      </div>
+  </nav>
+
+  <div class="search-container">
+    <input type="text" placeholder="Search..." />
+    <button>Search</button>
+  </div>
+</body>

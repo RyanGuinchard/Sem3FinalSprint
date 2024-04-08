@@ -30,6 +30,7 @@ router.post('/login', async (req, res) => {
         // Compare the provided password with the password stored in the database
         if (password === user.password) {
             // res.status(200).json({ message: 'Login successful' });
+            res.cookie('username', username, { maxAge: 900000, httpOnly: true });
             res.redirect('/')
         } else {
             res.status(401).json({ error: 'Invalid username or password' });
@@ -42,14 +43,9 @@ router.post('/login', async (req, res) => {
 
 // Route to log out
 router.get('/logout', (req, res) => {
-    req.session.destroy((err) => {
-        if (err) {
-            return console.log(err);
-        }
-        res.redirect('/users/login');
-    });
+    res.clearCookie('username');
+    res.redirect('/users/login');
 });
-
 
 // Route to render the registration form
 router.get('/register', (req, res) => {

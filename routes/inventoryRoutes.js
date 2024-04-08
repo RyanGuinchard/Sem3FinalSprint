@@ -3,7 +3,8 @@ const router = express.Router();
 const pgDal = require("../services/inventoryPG.dal")
 
 router.get('/', (req, res) => {
-    res.render('index',);
+    const isLoggedIn = req.cookies.username ? true : false;
+    res.render('index', { isLoggedIn });
 });
 
 router.get('/preroll', (req, res) => {

@@ -1,6 +1,7 @@
 require('dotenv').config();
 
 const express = require('express');
+const cookieParser = require('cookie-parser');
 const app = express();
 const path = require('path');
 const PORT = 3000;
@@ -13,6 +14,9 @@ app.set('views', path.join(__dirname, 'views'));
 app.use(express.static(path.join(__dirname, 'public')));
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
+
+// Use the cookie-parser middleware
+app.use(cookieParser());
 
 // Middleware
 app.use((req, res, next) => {

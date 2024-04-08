@@ -10,9 +10,12 @@
       <li><a href="#">Vaporizers</a></li>
     </ul>
     <div>
-        <a href="/users/login"><button class="signin-btn">Sign In</button></a>
-    </div>
-    </div>
+        <% if (isLoggedIn) { %>
+          <a href="/users/logout"><button class="logout-btn">Logout</button></a>
+        <% } else { %>
+          <a href="/users/login"><button class="signin-btn">Sign In</button></a>
+        <% } %>
+      </div>
   </nav>
 
   <div class="search-container">

@@ -99,6 +99,38 @@ nav ul li a:hover {
   background-color: #45a049;
 }
 
+.logout-btn {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  right: 20px;
+  transform: translateY(-50%);
+}
+
+.logout-btn:hover {
+  background-color: #45a049;
+}
+
+.toggle-db-btn {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.toggle-db-btn:hover {
+  background-color: #45a049;
+}
+
+
 /* Login form styles */
 .login-form {
     margin: 20px auto;
@@ -131,4 +163,23 @@ nav ul li a:hover {
 
 .submit-btn:hover {
     background-color: #45a049;
+}
+
+.product-list {
+  list-style: none;
+  padding: 20px;
+  margin: 0 auto;
+  max-width: 600px;
+}
+
+.product-list li {
+  background-color: #fff;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.product-list li:last-child {
+  margin-bottom: 0;
 }

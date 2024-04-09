@@ -6,7 +6,27 @@ const pool = new Pool({
     database: process.env.POSTGRES_DB,
     password: process.env.POSTGRES_PASSWORD,
     port: 5432
-  });
+});
+
+const getAll = async () => {
+    const client = await pool.connect();
+    try {
+        const result = await client.query(`
+            SELECT 'concentrate' AS category, * FROM concentrate
+            UNION ALL
+            SELECT 'edible' AS category, * FROM edible
+            UNION ALL
+            SELECT 'flower' AS category, * FROM flower
+            UNION ALL
+            SELECT 'preroll' AS category, * FROM preroll
+            UNION ALL
+            SELECT 'vaporizer' AS category, * FROM vaporizer;
+        `);
+        return result.rows;
+    } finally {
+        client.release();
+    }
+}
 
 const getByIdFromTable = async (table, id) => {
     const client = await pool.connect();
@@ -71,6 +91,7 @@ const deleteEntry = async (table, id) => {
 };
 
 module.exports = {
+    getAll,
     getByIdFromTable,
     getAllFromTable,
     insertEntry,

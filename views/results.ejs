@@ -1,0 +1,10 @@
+<%- include('./partials/header.ejs') %>
+<body>
+  <h1>Search Results</h1>
+  <%- include('./partials/nav') %>
+  <ul>
+    <% results.forEach(result => { %>
+      <li><%= result.name %></li>
+    <% }) %>
+  </ul>
+</body>

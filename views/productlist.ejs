@@ -1,0 +1,10 @@
+<%- include('./partials/header.ejs') %>
+<h1><%- category %></h1>
+<%- include('./partials/nav.ejs') %>
+<body>
+    <ul class="product-list">
+        <% products.forEach(function(product) { %>
+            <li><%= product.name %> - <%- product.strength %>% - <%= product.price %></li>
+        <% }); %>
+    </ul>
+</body>

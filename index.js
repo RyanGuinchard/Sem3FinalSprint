@@ -26,26 +26,6 @@ app.use((req, res, next) => {
     next();
 });
 
-if (useMongoDB) {
-  mongodbUtil.connectToServer((err) => {
-    if (err) {
-      console.error(err);
-      throw err; // Throw the error
-    }
-
-    // Add route files
-    const inventoryRouter = require("./routes/inventoryRoutes");
-    const usersRouter = require("./routes/userRoutes");
-
-    // Mount route file
-    app.use('/', inventoryRouter);
-    app.use('/users', usersRouter);
-
-    app.listen(PORT, () => {
-      console.log(`listening on port ${PORT}`);
-    });
-  });
-} else {
   // Add route files
   const inventoryRouter = require("./routes/inventoryRoutes");
   const usersRouter = require("./routes/userRoutes");
@@ -57,4 +37,3 @@ if (useMongoDB) {
   app.listen(PORT, () => {
     console.log(`listening on port ${PORT}`);
   });
-}

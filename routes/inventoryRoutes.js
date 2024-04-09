@@ -13,11 +13,14 @@ router.get('/preroll', async (req, res) => {
     if (useMongoDB) {
         // Use MongoDB to get prerolls
         try {
-            const prerolls = await mongodbUtil.findAllDocuments('preroll');
+            await mongodbUtil.connect();
+            const prerolls = await mongodbUtil.db().collection('preroll').find().toArray();
             res.json(prerolls);
+            mongodbUtil.close();
         } catch (err) {
             console.error(err);
             res.status(500).send("Error accessing the database with MongoDB.");
+            mongodbUtil.close();
         }
     } else {
         // Use PostgreSQL to get prerolls

@@ -1,0 +1,240 @@
+[
+    {
+        "class": "Indica",
+        "name": "Seaweed | Temple Ball Hash | 1g",
+        "type": "HASH",
+        "strength": "41.3",
+        "price": "$16.99"
+    },
+    {
+        "class": "Sativa",
+        "name": "SHREDX | Tropic Thunder Rip Strips Hash | 2g",
+        "type": "HASH",
+        "strength": "45.7",
+        "price": "$22.99"
+    },
+    {
+        "class": "Indica",
+        "name": "SHREDX | Blueberry Blaster Rip Strips Hash | 2g",
+        "type": "HASH",
+        "strength": "38.9",
+        "price": "$22.99"
+    },
+    {
+        "class": "Indica",
+        "name": "RAD | Blue Razz Live Resin Infused Hash | 1.75g",
+        "type": "HASH",
+        "strength": "44.5",
+        "price": "$23.95"
+    },
+    {
+        "class": "Indica",
+        "name": "RAD | T''s Cocoa Orange Infused Hash | 1.75g",
+        "type": "HASH",
+        "strength": "43.1",
+        "price": "$23.95"
+    },
+    {
+        "class": "Hybrid",
+        "name": "Pura Vida | Pineapple Express Live Resin Infused Hash | 1.75g",
+        "type": "HASH",
+        "strength": "42.9",
+        "price": "$23.95"
+    },
+    {
+        "class": "Hybrid",
+        "name": "Tremblant | Afghan Black Hash | 2g",
+        "type": "HASH",
+        "strength": "34.0",
+        "price": "$29.00"
+    },
+    {
+        "class": "Hybrid",
+        "name": "Tremblant | Hashish | 2g",
+        "type": "HASH",
+        "strength": "46.3",
+        "price": "$31.29"
+    },
+    {
+        "class": "Hybrid",
+        "name": "Good Supply | Temple Ball Hash | 2g",
+        "type": "HASH",
+        "strength": "42.9",
+        "price": "$29.99"
+    },
+    {
+        "class": "Indica",
+        "name": "Highly Dutch | 6-Month Oak Barrel Hash | 2g",
+        "type": "HASH",
+        "strength": "40.3",
+        "price": "$36.58"
+    },
+    {
+        "class": "Hybrid",
+        "name": "Kush Kraft | Mini Moons Hash | 4 x 0.5g",
+        "type": "HASH",
+        "strength": "41.4",
+        "price": "$36.99"
+    },
+    {
+        "class": "Indica",
+        "name": "Highly Dutch | Afghan Black Hash | 2g",
+        "type": "HASH",
+        "strength": "38",
+        "price": "$46.99"
+    },
+    {
+        "class": "Indica",
+        "name": "Pura Vida | Raspberry Hippie Crippler Honey Oil | 1g",
+        "type": "HONEY OIL/DISTILLATE DISPENSERS",
+        "strength": "81.2",
+        "price": "$34.77"
+    },
+    {
+        "class": "Sativa",
+        "name": "Pura Vida | Sativa Honey Oil | 1g",
+        "type": "HONEY OIL/DISTILLATE DISPENSERS",
+        "strength": "80.1",
+        "price": "$34.77"
+    },
+    {
+        "class": "Indica",
+        "name": "Pura Vida | Grape Ape Honey Oil | 1g",
+        "type": "HONEY OIL/DISTILLATE DISPENSERS",
+        "strength": "80.9",
+        "price": "$34.77"
+    },
+    {
+        "class": "Sativa",
+        "name": "Pura Vida | Tropic Thunder Honey Oil | 1g",
+        "type": "HONEY OIL/DISTILLATE DISPENSERS",
+        "strength": "75.9",
+        "price": "$34.77"
+    },
+    {
+        "class": "Sativa",
+        "name": "DEBUNK | Super Sour Diesel Dablicator Distillate | 1g NEW!!",
+        "type": "HONEY OIL/DISTILLATE DISPENSERS",
+        "strength": "82.5",
+        "price": "$39.99"
+    },
+    {
+        "class": "Combo",
+        "name": "Roilty | Pink Princess/Roil Lemon Haze Shatter | 2x0.5g",
+        "type": "SHATTER/RESIN/WAX/CRUMBLE",
+        "strength": "79.5/81.5",
+        "price": "$29.99"
+    },
+    {
+        "class": "Hybrid",
+        "name": "Endgame | Tiger CK x KK Mints Shatter | 1g",
+        "type": "SHATTER/RESIN/WAX/CRUMBLE",
+        "strength": "75.4",
+        "price": "$29.99"
+    },
+    {
+        "class": "Indica",
+        "name": "Roilty | White Knight Sugar Wax | 1g",
+        "type": "SHATTER/RESIN/WAX/CRUMBLE",
+        "strength": "81.2",
+        "price": "$29.99"
+    },
+    {
+        "class": "Indica",
+        "name": "DEBUNK | Blue Widow Crumble | 1g",
+        "type": "SHATTER/RESIN/WAX/CRUMBLE",
+        "strength": "73.2",
+        "price": "$33.99"
+    },
+    {
+        "class": "Indica",
+        "name": "RAD | Pink Kush Shatter | 1g",
+        "type": "SHATTER/RESIN/WAX/CRUMBLE",
+        "strength": "79.2",
+        "price": "$34.77"
+    },
+    {
+        "class": "Hybrid",
+        "name": "RAD | Mixtape Special Live Resin | 1g",
+        "type": "SHATTER/RESIN/WAX/CRUMBLE",
+        "strength": "75.7",
+        "price": "$34.77"
+    },
+    {
+        "class": "Hybrid",
+        "name": "RAD | Strawberry Alien OG Shatter | 1g",
+        "type": "SHATTER/RESIN/WAX/CRUMBLE",
+        "strength": "79.2",
+        "price": "$34.77"
+    },
+    {
+        "class": "Hybrid",
+        "name": "Phyto | Phyre Shatter | 1g",
+        "type": "SHATTER/RESIN/WAX/CRUMBLE",
+        "strength": "80.3",
+        "price": "$35.99"
+    },
+    {
+        "class": "Hybrid",
+        "name": "Seaweed | Mango Trees Shatter | 1g",
+        "type": "SHATTER/RESIN/WAX/CRUMBLE",
+        "strength": "70.7",
+        "price": "$35.99"
+    },
+    {
+        "class": "Indica",
+        "name": "Endgame | Astro Pink Shatter | 1g",
+        "type": "SHATTER/RESIN/WAX/CRUMBLE",
+        "strength": "79.2",
+        "price": "$35.99"
+    },
+    {
+        "class": "Indica",
+        "name": "Wagners | Pink Bubba Live Resin | 1g",
+        "type": "SHATTER/RESIN/WAX/CRUMBLE",
+        "strength": "78.1",
+        "price": "$39.12"
+    },
+    {
+        "class": "Hybrid",
+        "name": "Delta 9 | Sapphire Kief | 2g",
+        "type": "MISC.",
+        "strength": "33.0",
+        "price": "$17.40"
+    },
+    {
+        "class": "Hybrid",
+        "name": "RAD | CBD Isolate | 1g",
+        "type": "MISC.",
+        "strength": "98",
+        "price": "$29.99"
+    },
+    {
+        "class": "Hybrid",
+        "name": "Edison | Arctic Cherry Jolts | 10pcs",
+        "type": "SUBLINGUAL TABLETS",
+        "strength": "10mg",
+        "price": "$17.99"
+    },
+    {
+        "class": "Hybrid",
+        "name": "Edison | Electric Lemon Jolts | 10pcs",
+        "type": "SUBLINGUAL TABLETS",
+        "strength": "10mg",
+        "price": "$17.99"
+    },
+    {
+        "class": "Sativa",
+        "name": "Edison | Freshly Minted Jolts | 10pcs",
+        "type": "SUBLINGUAL TABLETS",
+        "strength": "10mg",
+        "price": "$17.99"
+    },
+    {
+        "class": "Hybrid",
+        "name": "Pure Laine | THC Oral Strips | 10pcs",
+        "type": "SUBLINGUAL TABLETS",
+        "strength": "10mg",
+        "price": "$19.50"
+    }
+]

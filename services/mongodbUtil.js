@@ -28,6 +28,26 @@ const close = async () => {
   }
 };
 
+const searchAllCollections = async (searchQuery) => {
+  try {
+    await connect();
+    const database = db();
+    const collections = await database.listCollections().toArray();
+    const searchPromises = collections.map(async (collection) => {
+      const results = await database.collection(collection.name).find({ 
+        $text: { $search: searchQuery } 
+      }).toArray();
+      return { collection: collection.name, results };
+    });
+    const searchResults = await Promise.all(searchPromises);
+    return searchResults;
+  } catch (err) {
+    console.error(err);
+  } finally {
+    close();
+  }
+};
+
 const findAllDocuments = async (collectionName) => {
   try {
     await connect();
@@ -45,5 +65,6 @@ module.exports = {
   connect,
   db,
   close,
+  searchAllCollections,
   findAllDocuments
 };

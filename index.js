@@ -1,6 +1,4 @@
 require('dotenv').config();
-const useMongoDB = process.env.USE_MONGO_DB === "true";
-const mongodbUtil = require('./services/mongodbUtil');
 const express = require('express');
 const cookieParser = require('cookie-parser');
 const app = express();
@@ -19,12 +17,12 @@ app.use(express.urlencoded({ extended: true }));
 app.use(cookieParser());
 
 // Middleware
-app.use((req, res, next) => {
-    if (req.body._method) {
-      req.method = req.body._method;
-    }
-    next();
-});
+// app.use((req, res, next) => {
+//     if (req.body._method) {
+//       req.method = req.body._method;
+//     }
+//     next();
+// });
 
   // Add route files
   const inventoryRouter = require("./routes/inventoryRoutes");

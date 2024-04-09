@@ -1,0 +1,19 @@
+<nav>
+  <ul>
+    <li><a href="/">Home</a></li>
+    <li><a href="/category/preroll">Preroll</a></li>
+    <li><a href="/category/flower">Flower</a></li>
+    <li><a href="/category/concentrates">Concentrate</a></li>
+    <li><a href="/category/edible">Edibles</a></li>
+    <li><a href="/category/vaporizer">Vaporizers</a></li>
+  </ul>
+  <div>
+    <% if (isLoggedIn) { %>
+    <a href="/users/logout"><button class="logout-btn">Logout</button></a>
+    <% } else { %>
+    <a href="/users/login"><button class="signin-btn">Sign In</button></a>
+    <% } %>
+    <a href="/toggle-database"><button class="toggle-db-btn">Switch to <%= useMongoDB ? 'PostgreSQL' : 'MongoDB' %></button></a>
+  </div>
+</nav>
+

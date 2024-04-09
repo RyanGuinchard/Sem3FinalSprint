@@ -1,0 +1,520 @@
+[
+    {
+        "class": "Indica",
+        "name": "Booty | Sour Grapes",
+        "type": "GUMMIES",
+        "strength": "1 x 10mg",
+        "price": "1pk"
+    },
+    {
+        "class": "Hybrid",
+        "name": "Booty | Sour Mixed Berry",
+        "type": "GUMMIES",
+        "strength": "1 x 10mg",
+        "price": "1pk"
+    },
+    {
+        "class": "Sativa",
+        "name": "Booty | Tutti Fruity",
+        "type": "GUMMIES",
+        "strength": "1 x 10mg",
+        "price": "1pk"
+    },
+    {
+        "class": "Hybrid",
+        "name": "Aurora Drift | Pomegranate Berry",
+        "type": "GUMMIES",
+        "strength": "1 x 10mg",
+        "price": "1pk"
+    },
+    {
+        "class": "Indica",
+        "name": "pearls by gron | Blue Razzleberry 3:1",
+        "type": "GUMMIES",
+        "strength": "5 x 2mgTHC/6mgCBG",
+        "price": "5pk"
+    },
+    {
+        "class": "Indica",
+        "name": "SHRED | Sour Cherry Punch",
+        "type": "GUMMIES",
+        "strength": "2 x 5mg",
+        "price": "2pk"
+    },
+    {
+        "class": "Sativa",
+        "name": "SHRED | Sour Megamelon",
+        "type": "GUMMIES",
+        "strength": "2 x 5mg",
+        "price": "2pk"
+    },
+    {
+        "class": "Hybrid",
+        "name": "SHRED | Grapple Juice",
+        "type": "GUMMIES",
+        "strength": "4 x 2.5mg",
+        "price": "4pk"
+    },
+    {
+        "class": "Hybrid",
+        "name": "SHRED | Wild Berry Blaze",
+        "type": "GUMMIES",
+        "strength": "4 x 2.5mg / 4 x 10mg",
+        "price": "4pk"
+    },
+    {
+        "class": "Indica",
+        "name": "SOURZ | Blue Raspberry Watermelon",
+        "type": "GUMMIES",
+        "strength": "5 x 2mg",
+        "price": "5pk"
+    },
+    {
+        "class": "Hybrid",
+        "name": "SOURZ | Cherry-Lime",
+        "type": "GUMMIES",
+        "strength": "5 x 2mg",
+        "price": "5pk"
+    },
+    {
+        "class": "Hybrid",
+        "name": "SOURZ | Peach Orange",
+        "type": "GUMMIES",
+        "strength": "5 x 2mg",
+        "price": "5pk"
+    },
+    {
+        "class": "Hybrid",
+        "name": "SOURZ | Tropical Triple Berry",
+        "type": "GUMMIES",
+        "strength": "5 x 2mg",
+        "price": "5pk"
+    },
+    {
+        "class": "Sativa",
+        "name": "SOURZ | Pink Lemonade",
+        "type": "GUMMIES",
+        "strength": "5 x 2mg",
+        "price": "5pk"
+    },
+    {
+        "class": "Sativa",
+        "name": "FEELZ | Mango Lime CBC",
+        "type": "GUMMIES",
+        "strength": "5 x 2mg",
+        "price": "5pk"
+    },
+    {
+        "class": "Indica",
+        "name": "FEELZ | Blueberry Pomegranate CBN",
+        "type": "GUMMIES",
+        "strength": "2 x 5mg",
+        "price": "2pk"
+    },
+    {
+        "class": "Hybrid",
+        "name": "FEELZ | Pineapple Starfruit CBG",
+        "type": "GUMMIES",
+        "strength": "2 x 5mg",
+        "price": "2pk"
+    },
+    {
+        "class": "Hybrid",
+        "name": "Seaweed | Sugar Plum",
+        "type": "GUMMIES",
+        "strength": "2 x 5mg",
+        "price": "2pk"
+    },
+    {
+        "class": "Hybrid",
+        "name": "Daily Special | Sour Grape Lil''Bits",
+        "type": "GUMMIES",
+        "strength": "10 x 1mg",
+        "price": "10pk"
+    },
+    {
+        "class": "Sativa",
+        "name": "Wyld | Real Fruit Sour Apple",
+        "type": "GUMMIES",
+        "strength": "2 x 5mg",
+        "price": "2pk"
+    },
+    {
+        "class": "Hybrid",
+        "name": "Wyld | Real Fruit Sour Cherry",
+        "type": "GUMMIES",
+        "strength": "2 x 5mg",
+        "price": "2pk"
+    },
+    {
+        "class": "Sativa",
+        "name": "Wyld | Real Fruit Raspberry",
+        "type": "GUMMIES",
+        "strength": "2 x 5mg",
+        "price": "2pk"
+    },
+    {
+        "class": "Hybrid",
+        "name": "Wana | Pineapple Passionfruit",
+        "type": "GUMMIES",
+        "strength": "2 x 5mgTHC/5mgCBD/5mgCBG",
+        "price": "2pk"
+    },
+    {
+        "class": "Indica",
+        "name": "Wana | Blueberry",
+        "type": "GUMMIES",
+        "strength": "2 x 5mg",
+        "price": "2pk"
+    },
+    {
+        "class": "Indica",
+        "name": "San Rafael ''71 | Blaspberry",
+        "type": "GUMMIES",
+        "strength": "4 x 2.5mg",
+        "price": "4pk"
+    },
+    {
+        "class": "Indica",
+        "name": "San Rafael ''71 | Sour Blueberry",
+        "type": "GUMMIES",
+        "strength": "4 x 2.5mg",
+        "price": "4pk"
+    },
+    {
+        "class": "Indica",
+        "name": "San Rafael ''71 | Sour Cherry",
+        "type": "GUMMIES",
+        "strength": "4 x 2.5mg",
+        "price": "4pk"
+    },
+    {
+        "class": "Sativa",
+        "name": "San Rafael ''71 | Tangerine Dream",
+        "type": "GUMMIES",
+        "strength": "4 x 2.5mg",
+        "price": "4pk"
+    },
+    {
+        "class": "Hybrid",
+        "name": "Wyld | Real Fruit Strawberry",
+        "type": "GUMMIES",
+        "strength": "10 x 1mg THC/20mg CBD",
+        "price": "10pk"
+    },
+    {
+        "class": "Indica",
+        "name": "Monjour | Blueberry Lemon CBN",
+        "type": "GUMMIES",
+        "strength": "4x2.5mg THC/20mg CBD/7.5mg CBN",
+        "price": "4pk"
+    },
+    {
+        "class": "Hybrid",
+        "name": "Bhang | Cookies & Cream Chocolate",
+        "type": "CHOCOLATES & BAKED GOODS",
+        "strength": "1 x 10mg",
+        "price": "1pk"
+    },
+    {
+        "class": "Hybrid",
+        "name": "Back Forty | S''mores Chocolate",
+        "type": "CHOCOLATES & BAKED GOODS",
+        "strength": "1 x 10mg",
+        "price": "1pk"
+    },
+    {
+        "class": "Hybrid",
+        "name": "Indiva Life | Vanilla Double Stuffed Cookie",
+        "type": "CHOCOLATES & BAKED GOODS",
+        "strength": "1 x 10mg",
+        "price": "1pk"
+    },
+    {
+        "class": "Hybrid",
+        "name": "Indiva Life | Fudge Double Stuffed Cookie",
+        "type": "CHOCOLATES & BAKED GOODS",
+        "strength": "1 x 10mg",
+        "price": "1pk"
+    },
+    {
+        "class": "Hybrid",
+        "name": "Rosin Heads | Raspberry Peanut Butter Cup",
+        "type": "CHOCOLATES & BAKED GOODS",
+        "strength": "1 x 10mg",
+        "price": "1pk"
+    },
+    {
+        "class": "Hybrid",
+        "name": "Rosin Heads | Orange Hazelnut Truffle",
+        "type": "CHOCOLATES & BAKED GOODS",
+        "strength": "1 x 10mg",
+        "price": "1pk"
+    },
+    {
+        "class": "Hybrid",
+        "name": "Oceanic Bites | Blueberry Lavender",
+        "type": "CHOCOLATES & BAKED GOODS",
+        "strength": "2 x 5mg / 2 x 10mg",
+        "price": "2pk"
+    },
+    {
+        "class": "Hybrid",
+        "name": "Oceanic Bites | Cherry Cocoa",
+        "type": "CHOCOLATES & BAKED GOODS",
+        "strength": "2 x 5mg / 2 x 10mg",
+        "price": "2pk"
+    },
+    {
+        "class": "Hybrid",
+        "name": "Oceanic Bites | Apricot Reishi",
+        "type": "CHOCOLATES & BAKED GOODS",
+        "strength": "2 x 5mg / 2 x 10mg",
+        "price": "2pk"
+    },
+    {
+        "class": "Hybrid",
+        "name": "Solei | Free Plus 1:30",
+        "type": "OILS & SPRAYS",
+        "strength": "1.55mg THC / 29.8mg CBD",
+        "price": "30ml"
+    },
+    {
+        "class": "Hybrid",
+        "name": "FIGR | Balanced Oil Drops",
+        "type": "OILS & SPRAYS",
+        "strength": "18mg THC / 18mg CBD",
+        "price": "30ml"
+    },
+    {
+        "class": "Indica",
+        "name": "Twd. | Max THC Indica Oil",
+        "type": "OILS & SPRAYS",
+        "strength": "30mg THC",
+        "price": "30ml"
+    },
+    {
+        "class": "Indica",
+        "name": "Tweed | Bakerstreet Oil Oral Spray",
+        "type": "OILS & SPRAYS",
+        "strength": "26.3mg THC",
+        "price": "20ml"
+    },
+    {
+        "class": "Sativa",
+        "name": "Tweed | Houndstooth Oil Spray",
+        "type": "OILS & SPRAYS",
+        "strength": "26.3mg THC",
+        "price": "20ml"
+    },
+    {
+        "class": "Indica",
+        "name": "Tweed | Argyle 10mg Capsules",
+        "type": "CAPSULES",
+        "strength": "10mg THC / 12mg CBD",
+        "price": "15pc"
+    },
+    {
+        "class": "Hybrid",
+        "name": "Tweed | Penelope 10mg Capsules",
+        "type": "CAPSULES",
+        "strength": "10mg THC / 7mg CBD",
+        "price": "15pc"
+    },
+    {
+        "class": "Sativa",
+        "name": "Tweed | Houndstooth 10mg Capsules",
+        "type": "CAPSULES",
+        "strength": "10mg THC",
+        "price": "15pcs"
+    },
+    {
+        "class": "Indica",
+        "name": "Tweed | Bakerstreet 10mg Capsules",
+        "type": "CAPSULES",
+        "strength": "10mg THC",
+        "price": "15pc"
+    },
+    {
+        "class": "Hybrid",
+        "name": "Tweed | CBD 10 Capsules",
+        "type": "CAPSULES",
+        "strength": "10mg CBD",
+        "price": "30pc"
+    },
+    {
+        "class": "Hybrid",
+        "name": "Daily Special | Balanced Capsules",
+        "type": "CAPSULES",
+        "strength": "2.2mg THC / 2.5mg CBD",
+        "price": "30pk"
+    },
+    {
+        "class": "Hybrid",
+        "name": "Redecan | CBD Gems + Capsules",
+        "type": "CAPSULES",
+        "strength": "30mg CBD",
+        "price": "15pc"
+    },
+    {
+        "class": "Hybrid",
+        "name": "Tweed | CBD:CBG Capsules",
+        "type": "CAPSULES",
+        "strength": "60mg CBD / 10mg CBG",
+        "price": "30pc"
+    },
+    {
+        "class": "Hybrid",
+        "name": "Tweed | CBD:CBN Capsules",
+        "type": "CAPSULES",
+        "strength": "60mg CBD / 10mg CBN",
+        "price": "30pc"
+    },
+    {
+        "class": "Hybrid",
+        "name": "Tweed | Sparkling Lemonade",
+        "type": "BEVERAGES",
+        "strength": "7.5mg THC",
+        "price": "355ml"
+    },
+    {
+        "class": "Hybrid",
+        "name": "XMG | Alt Black Cherry",
+        "type": "BEVERAGES",
+        "strength": "10mg THC",
+        "price": "236ml"
+    },
+    {
+        "class": "Hybrid",
+        "name": "XMG | Blue Raspberry",
+        "type": "BEVERAGES",
+        "strength": "10mg THC",
+        "price": "236ml"
+    },
+    {
+        "class": "Hybrid",
+        "name": "XMG | Orange Soda",
+        "type": "BEVERAGES",
+        "strength": "10mg THC",
+        "price": "355ml"
+    },
+    {
+        "class": "Hybrid",
+        "name": "XMG | Watermelon",
+        "type": "BEVERAGES",
+        "strength": "10mg THC",
+        "price": "236ml"
+    },
+    {
+        "class": "Sativa",
+        "name": "XMG+ | Grape Ape",
+        "type": "BEVERAGES",
+        "strength": "10mg THC",
+        "price": "355ml"
+    },
+    {
+        "class": "Sativa",
+        "name": "XMG+ | Sour Green Apple Kush",
+        "type": "BEVERAGES",
+        "strength": "10mg THC",
+        "price": "236ml"
+    },
+    {
+        "class": "Sativa",
+        "name": "XMG+ | Tropical Cream Float",
+        "type": "BEVERAGES",
+        "strength": "10mg THC",
+        "price": "355ml"
+    },
+    {
+        "class": "Hybrid",
+        "name": "Mollo 10",
+        "type": "BEVERAGES",
+        "strength": "10mg THC",
+        "price": "355ml"
+    },
+    {
+        "class": "Hybrid",
+        "name": "House Of Terpenes Canntinis | Ginger Lime",
+        "type": "BEVERAGES",
+        "strength": "10mg THC",
+        "price": "236ml"
+    },
+    {
+        "class": "Hybrid",
+        "name": "Ace Valley | Passion Fruit Guava",
+        "type": "BEVERAGES",
+        "strength": "25mg CBD",
+        "price": "355ml"
+    },
+    {
+        "class": "Hybrid",
+        "name": "Ace Valley | Blueberry Acai",
+        "type": "BEVERAGES",
+        "strength": "21mg CBD / 7mg CBG",
+        "price": "355ml"
+    },
+    {
+        "class": "Hybrid",
+        "name": "Mollo | Mango Seltzer",
+        "type": "BEVERAGES",
+        "strength": "10mg THC",
+        "price": "355ml"
+    },
+    {
+        "class": "Hybrid",
+        "name": "Mollo | Pineapple Seltzer",
+        "type": "BEVERAGES",
+        "strength": "10mg THC",
+        "price": "355ml"
+    },
+    {
+        "class": "Hybrid",
+        "name": "Aurora Drift | THC Citrus Shot",
+        "type": "BEVERAGES",
+        "strength": "10mg THC",
+        "price": "45ml"
+    },
+    {
+        "class": "Hybrid",
+        "name": "Tweed | Fizz Mango",
+        "type": "BEVERAGES",
+        "strength": "5mg THC",
+        "price": "355ml"
+    },
+    {
+        "class": "Hybrid",
+        "name": "Tweed | Fizz Pineapple",
+        "type": "BEVERAGES",
+        "strength": "5mg THC",
+        "price": "355ml"
+    },
+    {
+        "class": "Hybrid",
+        "name": "Deep Space | Limon Splashdown",
+        "type": "BEVERAGES",
+        "strength": "10mg THC",
+        "price": "236ml"
+    },
+    {
+        "class": "Hybrid",
+        "name": "Collective Project | Raspberry & Vanilla",
+        "type": "BEVERAGES",
+        "strength": "10mg THC / 10mg CBD",
+        "price": "355ml"
+    },
+    {
+        "class": "Hybrid",
+        "name": "Collective Project | Blood Orange&Vanilla",
+        "type": "BEVERAGES",
+        "strength": "10mg THC / 10mg CBD",
+        "price": "355ml"
+    },
+    {
+        "class": "Hybrid",
+        "name": "BOAZ | Wake n'' Bake K Cup Coffee Pods",
+        "type": "BEVERAGES",
+        "strength": "10mg THC",
+        "price": "2pcs"
+    }
+]

@@ -1,8 +1,8 @@
 const { MongoClient } = require('mongodb');
 
-const uri = process.env.MONGODB_URI;
+const uri = process.env.MONGODB_HOST;
 const client = new MongoClient(uri);
-const DB_NAME = process.env.DB_NAME;
+const DB_NAME = process.env.MONGODB_DB;
 let dbConnection;
 
 const connectToServer = (callback) => {

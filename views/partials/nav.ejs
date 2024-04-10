@@ -10,10 +10,12 @@
   <div>
     <% if (isLoggedIn) { %>
     <a href="/users/logout"><button class="logout-btn">Logout</button></a>
+    <% if (isAdmin) { %>
+    <a href="/users/register"><button class="register-btn">Register User</button></a>
+    <% } %>
     <% } else { %>
     <a href="/users/login"><button class="signin-btn">Sign In</button></a>
     <% } %>
     <a href="/toggle-database"><button class="toggle-db-btn">Switch to <%= useMongoDB ? 'PostgreSQL' : 'MongoDB' %></button></a>
   </div>
 </nav>
-

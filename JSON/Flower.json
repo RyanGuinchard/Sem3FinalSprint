@@ -1,898 +1,898 @@
 [
     {
      "class": "Indica",
-     "name": "Redecan | Wappa | 1g",
-     "quantity": "1",
+     "name": "Redecan | Wappa",
+     "type": "Whole",
+     "quantity": "1g",
      "strength": "26.5",
-     "price": "$7.82",
-     "milled": "false"
+     "price": "$7.82"
     },
     {
      "class": "Hybrid",
-     "name": "Redecan | Cold Creek Kush | 1g",
-     "quantity": "1",
+     "name": "Redecan | Cold Creek Kush",
+     "type": "Whole",
+     "quantity": "1g",
      "strength": "22.6",
-     "price": "$7.82",
-     "milled": "false"
+     "price": "$7.82"
     },
     {
      "class": "Sativa",
-     "name": "Edison | Limelight | 1g",
-     "quantity": "1",
+     "name": "Edison | Limelight",
+     "type": "Whole",
+     "quantity": "1g",
      "strength": "25.6",
-     "price": "$7.99",
-     "milled": "false"
+     "price": "$7.99"
     },
     {
      "class": "Hybrid",
-     "name": "Good Supply | Pineapple Express | 3.5g",
-     "quantity": "3.5",
+     "name": "Good Supply | Pineapple Express",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "18.5",
-     "price": "$16.99",
-     "milled": "false"
+     "price": "$16.99"
     },
     {
      "class": "Indica",
-     "name": "Good Supply | Grand Daddy Purps | 3.5g",
-     "quantity": "3.5",
+     "name": "Good Supply | Grand Daddy Purps",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "21.9",
-     "price": "$16.99",
-     "milled": "false"
+     "price": "$16.99"
     },
     {
      "class": "Hybrid",
-     "name": "Good Supply | Melon Dream | 3.5g",
-     "quantity": "3.5",
+     "name": "Good Supply | Melon Dream",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "25.9",
-     "price": "$16.99",
-     "milled": "false"
+     "price": "$16.99"
     },
     {
      "class": "Indica",
-     "name": "Good Supply | Sweet Berry Kush | 3.5g",
-     "quantity": "3.5",
+     "name": "Good Supply | Sweet Berry Kush",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "24.4",
-     "price": "$16.99",
-     "milled": "false"
+     "price": "$16.99"
     },
     {
      "class": "Indica",
-     "name": "Twd. | Indica | 3.5g",
-     "quantity": "3.5",
+     "name": "Twd. | Indica",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "20.0 - 29.0",
-     "price": "$16.99",
-     "milled": "false"
+     "price": "$16.99"
     },
     {
      "class": "Sativa",
-     "name": "Twd. | Sativa | 3.5g",
-     "quantity": "3.5",
+     "name": "Twd. | Sativa",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "20.0 - 29.0",
-     "price": "$16.99",
-     "milled": "false"
+     "price": "$16.99"
     },
     {
      "class": "Sativa",
-     "name": "Holy Mountain | GMO Tropical Reign | 3.5g",
-     "quantity": "3.5",
+     "name": "Holy Mountain | GMO Tropical Reign",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "24.9",
-     "price": "$17.39",
-     "milled": "false"
+     "price": "$17.39"
     },
     {
      "class": "Indica",
-     "name": "Holy Mountain | Purple Punch-Out!! | 3.5g",
-     "quantity": "3.5",
+     "name": "Holy Mountain | Purple Punch-Out!!",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "26.5",
-     "price": "$17.39",
-     "milled": "false"
+     "price": "$17.39"
     },
     {
      "class": "Sativa",
-     "name": "Holy Mountain | Ultra Jean-G | 3.5g",
-     "quantity": "3.5",
+     "name": "Holy Mountain | Ultra Jean-G",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "26.9",
-     "price": "$17.39",
-     "milled": "false"
+     "price": "$17.39"
     },
     {
      "class": "Hybrid",
-     "name": "Booty | Hybrid | 3.5g",
-     "quantity": "3.5",
+     "name": "Booty | Hybrid",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "23.9",
-     "price": "$17.39",
-     "milled": "false"
+     "price": "$17.39"
     },
     {
      "class": "Sativa",
-     "name": "Hiway | Fast Lane | 3.5g",
-     "quantity": "3.5",
+     "name": "Hiway | Fast Lane",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "23.1",
-     "price": "$18.99",
-     "milled": "false"
+     "price": "$18.99"
     },
     {
      "class": "Indica",
-     "name": "Hiway | Slow Lane | 3.5g",
-     "quantity": "3.5",
+     "name": "Hiway | Slow Lane",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "21.9",
-     "price": "$18.99",
-     "milled": "false"
+     "price": "$18.99"
     },
     {
      "class": "Sativa",
-     "name": "Trailblazer | Apples & Cream | 3.5g",
-     "quantity": "3.5",
+     "name": "Trailblazer | Apples & Cream",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "5.9, 9.6",
-     "price": "$19.99",
-     "milled": "false"
+     "price": "$19.99"
     },
     {
      "class": "Hybrid",
-     "name": "Pure Sunfarms | Baked Animal | 3.5g",
-     "quantity": "3.5",
+     "name": "Pure Sunfarms | Baked Animal",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "28.5",
-     "price": "$19.99",
-     "milled": "false"
+     "price": "$19.99"
     },
     {
      "class": "Indica",
-     "name": "Pure Sunfarms | Pink Kush | 3.5g",
-     "quantity": "3.5",
+     "name": "Pure Sunfarms | Pink Kush",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "22.1",
-     "price": "$19.99",
-     "milled": "false"
+     "price": "$19.99"
     },
     {
      "class": "Hybrid",
-     "name": "Pure Sunfarms | Pure Sun CBD | 3.5g",
-     "quantity": "3.5",
+     "name": "Pure Sunfarms | Pure Sun CBD",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "0.6, 16.2",
-     "price": "$19.99",
-     "milled": "false"
+     "price": "$19.99"
     },
     {
      "class": "Sativa",
-     "name": "FIGR | Coastal Sage | 3.5g",
-     "quantity": "3.5",
+     "name": "FIGR | Coastal Sage",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "25.6",
-     "price": "$19.99",
-     "milled": "false"
+     "price": "$19.99"
     },
     {
      "class": "Hybrid",
-     "name": "FIGR | Crumbled Lime | 3.5g",
-     "quantity": "3.5",
+     "name": "FIGR | Crumbled Lime",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "18.0",
-     "price": "$19.99",
-     "milled": "false"
+     "price": "$19.99"
     },
     {
      "class": "Sativa",
-     "name": "Daily Special | El Chemino | 3.5g",
-     "quantity": "3.5",
+     "name": "Daily Special | El Chemino",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "28.3",
-     "price": "$20.00",
-     "milled": "false"
+     "price": "$20.00"
     },
     {
      "class": "Indica",
-     "name": "Daily Special | Gasberry Pie | 3.5g",
-     "quantity": "3.5",
+     "name": "Daily Special | Gasberry Pie",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "29.7",
-     "price": "$20.00",
-     "milled": "false"
+     "price": "$20.00"
     },
     {
      "class": "Indica",
-     "name": "Spinach | GMO Cookies | 3.5g",
-     "quantity": "3.5",
+     "name": "Spinach | GMO Cookies",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "31.3",
-     "price": "$21.99",
-     "milled": "false"
+     "price": "$21.99"
     },
     {
      "class": "Hybrid",
-     "name": "Delta 9 | I-95 | 3.5g",
-     "quantity": "3.5",
+     "name": "Delta 9 | I-95",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "19.9",
-     "price": "$22.84",
-     "milled": "false"
+     "price": "$22.84"
     },
     {
      "class": "Hybrid",
-     "name": "FIGR | CBD Shark | 3.5g",
-     "quantity": "3.5",
+     "name": "FIGR | CBD Shark",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "5.9, 8.7",
-     "price": "$22.90",
-     "milled": "false"
+     "price": "$22.90"
     },
     {
      "class": "Sativa",
-     "name": "FIGR | Jungle Fumes | 3.5g",
-     "quantity": "3.5",
+     "name": "FIGR | Jungle Fumes",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "30.8",
-     "price": "$22.90",
-     "milled": "false"
+     "price": "$22.90"
     },
     {
      "class": "Indica",
-     "name": "FIGR | Notable Nancy | 3.5g",
-     "quantity": "3.5",
+     "name": "FIGR | Notable Nancy",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "24.9",
-     "price": "$22.90",
-     "milled": "false"
+     "price": "$22.90"
     },
     {
      "class": "Hybrid",
-     "name": "FIGR | Sunshine Bubble Kush | 3.5g",
-     "quantity": "3.5",
+     "name": "FIGR | Sunshine Bubble Kush",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "21.9",
-     "price": "$22.90",
-     "milled": "false"
+     "price": "$22.90"
     },
     {
      "class": "Sativa",
-     "name": "Palmetto | Platinum Cookies | 3.5g",
-     "quantity": "3.5",
+     "name": "Palmetto | Platinum Cookies",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "22.9",
-     "price": "$22.99",
-     "milled": "false"
+     "price": "$22.99"
     },
     {
      "class": "Indica",
-     "name": "Tweed | CBD OG Kush | 3.5g",
-     "quantity": "3.5",
+     "name": "Tweed | CBD OG Kush",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "5.6, 15.4",
-     "price": "$22.99",
-     "milled": "false"
+     "price": "$22.99"
     },
     {
      "class": "Hybrid",
-     "name": "Tweed | Deep Breath | 3.5g",
-     "quantity": "3.5",
+     "name": "Tweed | Deep Breath",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "25.0",
-     "price": "$22.99",
-     "milled": "false"
+     "price": "$22.99"
     },
     {
      "class": "Hybrid",
-     "name": "Table Top | Sticky Buns | 3.5g",
-     "quantity": "3.5",
+     "name": "Table Top | Sticky Buns",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "20.8",
-     "price": "$23.20",
-     "milled": "false"
+     "price": "$23.20"
     },
     {
      "class": "Indica",
-     "name": "Tam Tams | Kush Mint F2 | 3.5g",
-     "quantity": "3.5",
+     "name": "Tam Tams | Kush Mint F2",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "25.7",
-     "price": "$23.48",
-     "milled": "false"
+     "price": "$23.48"
     },
     {
      "class": "Hybrid",
-     "name": "Naked Mummer | Bread Pudding | 3.5g",
-     "quantity": "3.5",
+     "name": "Naked Mummer | Bread Pudding",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "22.0",
-     "price": "$24.99",
-     "milled": "false"
+     "price": "$24.99"
     },
     {
      "class": "Sativa",
-     "name": "Naked Mummer | Cactus Breath | 3.5g",
-     "quantity": "3.5",
+     "name": "Naked Mummer | Cactus Breath",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "26.5",
-     "price": "$24.99",
-     "milled": "false"
+     "price": "$24.99"
     },
     {
      "class": "Sativa",
-     "name": "Argentia Gold | Lemon Drop | 3.5g",
-     "quantity": "3.5",
+     "name": "Argentia Gold | Lemon Drop",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "20.6",
-     "price": "$27.97",
-     "milled": "false"
+     "price": "$27.97"
     },
     {
      "class": "Indica",
-     "name": "Argentia Gold | Lemon Pepper Spice | 3.5g",
-     "quantity": "3.5",
+     "name": "Argentia Gold | Lemon Pepper Spice",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "22.5",
-     "price": "$27.97",
-     "milled": "false"
+     "price": "$27.97"
     },
     {
      "class": "Indica",
-     "name": "7ACRES | Papaya | 3.5g",
-     "quantity": "3.5",
+     "name": "7ACRES | Papaya",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "19.0",
-     "price": "$28.49",
-     "milled": "false"
+     "price": "$28.49"
     },
     {
      "class": "Indica",
-     "name": "7ACRES | Wappa 49 | 3.5g",
-     "quantity": "3.5",
+     "name": "7ACRES | Wappa 49",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "20.9",
-     "price": "$28.49",
-     "milled": "false"
+     "price": "$28.49"
     },
     {
      "class": "Sativa",
-     "name": "MTL Cannabis | Jungl Cake | 3.5g",
-     "quantity": "3.5",
+     "name": "MTL Cannabis | Jungl Cake",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "31.0",
-     "price": "$28.99",
-     "milled": "false"
+     "price": "$28.99"
     },
     {
      "class": "Sativa",
-     "name": "MTL Cannabis | Sage n Sour | 3.5g",
-     "quantity": "3.5",
+     "name": "MTL Cannabis | Sage n Sour",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "28.6",
-     "price": "$28.99",
-     "milled": "false"
+     "price": "$28.99"
     },
     {
      "class": "Indica",
-     "name": "San Rafael 71 | Chemango Kush | 3.5g",
-     "quantity": "3.5",
+     "name": "San Rafael 71 | Chemango Kush",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "32.0",
-     "price": "$28.99",
-     "milled": "false"
+     "price": "$28.99"
     },
     {
      "class": "Hybrid",
-     "name": "San Rafael 71 | Moon Berry | 3.5g",
-     "quantity": "3.5",
+     "name": "San Rafael 71 | Moon Berry",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "8.0, 11.2",
-     "price": "$28.99",
-     "milled": "false"
+     "price": "$28.99"
     },
     {
      "class": "Sativa",
-     "name": "San Rafael 71 | Ponderosa Pine | 3.5g",
-     "quantity": "3.5",
+     "name": "San Rafael 71 | Ponderosa Pine",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "27",
-     "price": "$28.99",
-     "milled": "false"
+     "price": "$28.99"
     },
     {
      "class": "Indica",
-     "name": "♥♥ San Rafael 71 | Sourdough | 3.5g",
-     "quantity": "3.5",
+     "name": "San Rafael 71 | Sourdough",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "31.5",
-     "price": "$28.99",
-     "milled": "false"
+     "price": "$28.99"
     },
     {
      "class": "Hybrid",
-     "name": "Ness | Jelly Breath | 3.5g",
-     "quantity": "3.5",
+     "name": "Ness | Jelly Breath",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "28.0",
-     "price": "$28.99",
-     "milled": "false"
+     "price": "$28.99"
     },
     {
      "class": "Sativa",
-     "name": "Ness | Mint Sour | 3.5g",
-     "quantity": "3.5",
+     "name": "Ness | Mint Sour",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "32.1",
-     "price": "$28.99",
-     "milled": "false"
+     "price": "$28.99"
     },
     {
      "class": "Hybrid",
-     "name": "Homage | Grape Escape | 3.5g",
-     "quantity": "3.5",
+     "name": "Homage | Grape Escape",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "25.3",
-     "price": "$29.56",
-     "milled": "false"
+     "price": "$29.56"
     },
     {
      "class": "Sativa",
-     "name": "Eastcann | Animal Face | 3.5g",
-     "quantity": "3.5",
+     "name": "Eastcann | Animal Face",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "27.6",
-     "price": "$29.99",
-     "milled": "false"
+     "price": "$29.99"
     },
     {
      "class": "Indica",
-     "name": "Eastcann | Banana Mints | 3.5g",
-     "quantity": "3.5",
+     "name": "Eastcann | Banana Mints",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "28.1",
-     "price": "$29.99",
-     "milled": "false"
+     "price": "$29.99"
     },
     {
      "class": "Hybrid",
-     "name": "Eastcann | Cap Jnky | 3.5g",
-     "quantity": "3.5",
+     "name": "Eastcann | Cap Jnky",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "36.3",
-     "price": "$29.99",
-     "milled": "false"
+     "price": "$29.99"
     },
     {
      "class": "Indica",
-     "name": "♥ Wagners | Cherry Jam | 3.5g *SUPER FRESH!",
-     "quantity": "3.5",
+     "name": "Wagners | Cherry Jam *SUPER FRESH!",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "25.1",
-     "price": "$29.99",
-     "milled": "false"
+     "price": "$29.99"
     },
     {
      "class": "Indica",
-     "name": "Wagners | Pink Bubba | 3.5g",
-     "quantity": "3.5",
+     "name": "Wagners | Pink Bubba",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "24.6",
-     "price": "$29.99",
-     "milled": "false"
+     "price": "$29.99"
     },
     {
      "class": "Sativa",
-     "name": "Wagners | Purple Clementine #37 | 3.5g",
-     "quantity": "3.5",
+     "name": "Wagners | Purple Clementine #37",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "21.9",
-     "price": "$29.99",
-     "milled": "false"
+     "price": "$29.99"
     },
     {
      "class": "Hybrid",
-     "name": "Wagners | Stone Sour | 3.5g",
-     "quantity": "3.5",
+     "name": "Wagners | Stone Sour",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "25.7",
-     "price": "$29.99",
-     "milled": "false"
+     "price": "$29.99"
     },
     {
      "class": "Sativa",
-     "name": "Wagners | The Silverback #4 | 3.5g",
-     "quantity": "3.5",
+     "name": "Wagners | The Silverback #4",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "22.4",
-     "price": "$29.99",
-     "milled": "false"
+     "price": "$29.99"
     },
     {
      "class": "Indica",
-     "name": "Tenzo | Ice Cream Sandwiches | 3.5g",
-     "quantity": "3.5",
+     "name": "Tenzo | Ice Cream Sandwiches",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "27.3",
-     "price": "$29.99",
-     "milled": "false"
+     "price": "$29.99"
     },
     {
      "class": "Indica",
-     "name": "Emerald | Durga Mata | 3.5g",
-     "quantity": "3.5",
+     "name": "Emerald | Durga Mata",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "19.6",
-     "price": "$29.99",
-     "milled": "false"
+     "price": "$29.99"
     },
     {
      "class": "Sativa",
-     "name": "SKOSHA | Crab Cakes | 3.5g",
-     "quantity": "3.5",
+     "name": "SKOSHA | Crab Cakes",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "32.5",
-     "price": "$30.40",
-     "milled": "false"
+     "price": "$30.40"
     },
     {
      "class": "Sativa",
-     "name": "Reef Organic | Queen SanG | 3.5g",
-     "quantity": "3.5",
+     "name": "Reef Organic | Queen SanG",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "26.8",
-     "price": "$30.99",
-     "milled": "false"
+     "price": "$30.99"
     },
     {
      "class": "Indica",
-     "name": "TGOD | Organic Sugar Cookies | 3.5g",
-     "quantity": "3.5",
+     "name": "TGOD | Organic Sugar Cookies",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "27.0",
-     "price": "$30.99",
-     "milled": "false"
+     "price": "$30.99"
     },
     {
      "class": "Sativa",
-     "name": "TGOD | Organic Cherry Mints | 3.5g",
-     "quantity": "3.5",
+     "name": "TGOD | Organic Cherry Mints",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "28.0",
-     "price": "$30.99",
-     "milled": "false"
+     "price": "$30.99"
     },
     {
      "class": "Sativa",
-     "name": "BZAM | Cobra Lips | 3.5g",
-     "quantity": "3.5",
+     "name": "BZAM | Cobra Lips",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "29.0",
-     "price": "$31.99",
-     "milled": "false"
+     "price": "$31.99"
     },
     {
      "class": "Hybrid",
-     "name": "Cypress Craft | Kmintz | 3.5g",
-     "quantity": "3.5",
+     "name": "Cypress Craft | Kmintz",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "24.6",
-     "price": "$32.99",
-     "milled": "false"
+     "price": "$32.99"
     },
     {
      "class": "Indica",
-     "name": "Oceanic | Premium Craft | 3.5g | Black Cookies",
-     "quantity": "3.5",
+     "name": "Oceanic | Premium Craft | Black Cookies",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "25.0",
-     "price": "$32.99",
-     "milled": "false"
+     "price": "$32.99"
     },
     {
      "class": "Indica",
-     "name": "BOLD | Death Star | 3.5g",
-     "quantity": "3.5",
+     "name": "BOLD | Death Star",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "30.6",
-     "price": "$33.87",
-     "milled": "false"
+     "price": "$33.87"
     },
     {
      "class": "Indica",
-     "name": "BOLD | Root Beer Float | 3.5g",
-     "quantity": "3.5",
+     "name": "BOLD | Root Beer Float",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "30.5",
-     "price": "$33.87",
-     "milled": "false"
+     "price": "$33.87"
     },
     {
      "class": "Indica",
-     "name": "Highland | Dankarooz | 3.5g",
-     "quantity": "3.5",
+     "name": "Highland | Dankarooz",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "30",
-     "price": "$34.77",
-     "milled": "false"
+     "price": "$34.77"
     },
     {
      "class": "Indica",
-     "name": "Highland | Victory CK | 3.5g",
-     "quantity": "3.5",
+     "name": "Highland | Victory CK",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "30",
-     "price": "$34.77",
-     "milled": "false"
+     "price": "$34.77"
     },
     {
      "class": "Sativa",
-     "name": "Seaweed Highest Tide | Frozen Lemon Jack | 3.5g",
-     "quantity": "3.5",
+     "name": "Seaweed Highest Tide | Frozen Lemon Jack",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "33.8",
-     "price": "$34.99",
-     "milled": "false"
+     "price": "$34.99"
     },
     {
      "class": "Indica",
-     "name": "Crooked Dory | Indica Reserve | 3.5g",
-     "quantity": "3.5",
+     "name": "Crooked Dory | Indica Reserve",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "21.1",
-     "price": "$34.99",
-     "milled": "false"
+     "price": "$34.99"
     },
     {
      "class": "Indica",
-     "name": "TopLeaf | LA Kush Cake | 3.5g",
-     "quantity": "3.5",
+     "name": "TopLeaf | LA Kush Cake",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "27.1",
-     "price": "$34.99",
-     "milled": "false"
+     "price": "$34.99"
     },
     {
      "class": "Indica",
-     "name": "♥ BLK MKT | Jealousy | 3.5g",
-     "quantity": "3.5",
+     "name": "BLK MKT | Jealousy",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "24.2",
-     "price": "$34.99",
-     "milled": "false"
+     "price": "$34.99"
     },
     {
      "class": "Sativa",
-     "name": "BOAZ | Green Kraken | 3.5g",
-     "quantity": "3.5",
+     "name": "BOAZ | Green Kraken",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "25.2",
-     "price": "$35.53",
-     "milled": "false"
+     "price": "$35.53"
     },
     {
      "class": "Hybrid",
-     "name": "Reef Organic | CBD Skunk Haze | 3.5g",
-     "quantity": "3.5",
+     "name": "Reef Organic | CBD Skunk Haze",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "8.4, 7.1",
-     "price": "$36.99",
-     "milled": "false"
+     "price": "$36.99"
     },
     {
      "class": "Sativa",
-     "name": "Reef Organic | High Seas | 3.5g",
-     "quantity": "3.5",
+     "name": "Reef Organic | High Seas",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "23.3",
-     "price": "$36.99",
-     "milled": "false"
+     "price": "$36.99"
     },
     {
      "class": "Indica",
-     "name": "Reef Organic | Banana Daddy | 3.5g",
-     "quantity": "3.5",
+     "name": "Reef Organic | Banana Daddy",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "22.5",
-     "price": "$38.95",
-     "milled": "false"
+     "price": "$38.95"
     },
     {
      "class": "Sativa",
-     "name": "BLK MKT | Rainbow P | 3.5g",
-     "quantity": "3.5",
+     "name": "BLK MKT | Rainbow P",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "30.3",
-     "price": "$39.95",
-     "milled": "false"
+     "price": "$39.95"
     },
     {
      "class": "Sativa",
-     "name": "Highland Grow | Chemnesia | 3.5g",
-     "quantity": "3.5",
+     "name": "Highland Grow | Chemnesia",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "30.8",
-     "price": "$39.99",
-     "milled": "false"
+     "price": "$39.99"
     },
     {
      "class": "Indica",
-     "name": "Highland Grow | The Leviathan | 3.5g",
-     "quantity": "3.5",
+     "name": "Highland Grow | The Leviathan",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "30.8",
-     "price": "$39.99",
-     "milled": "false"
+     "price": "$39.99"
     },
     {
      "class": "Hybrid",
-     "name": "Higgs | OG#33 | 3.5g",
-     "quantity": "3.5",
+     "name": "Higgs | OG#33",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "30.3",
-     "price": "$39.99",
-     "milled": "false"
+     "price": "$39.99"
     },
     {
      "class": "Sativa",
-     "name": "Higgs | Moonshine | 3.5g",
-     "quantity": "3.5",
+     "name": "Higgs | Moonshine",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "30.4",
-     "price": "$39.99",
-     "milled": "false"
+     "price": "$39.99"
     },
     {
      "class": "Hybrid",
-     "name": "krft | Khalifa Mints | 3.5g",
-     "quantity": "3.5",
+     "name": "krft | Khalifa Mints",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "29.8",
-     "price": "$39.99",
-     "milled": "false"
+     "price": "$39.99"
     },
     {
      "class": "Hybrid",
-     "name": "FRESH | Alien Cookies | 3.5g",
-     "quantity": "3.5",
+     "name": "FRESH | Alien Cookies ",
+     "type": "Whole",
+     "quantity": "3.5g",
      "strength": "20.2",
-     "price": "$49.99",
-     "milled": "false"
+     "price": "$49.99"
     },
     {
      "class": "Indica",
-     "name": "Twd. | Indica | 7g",
-     "quantity": "7",
+     "name": "Twd. | Indica",
+     "type": "Whole",
+     "quantity": "7g",
      "strength": "19.4",
-     "price": "$32.99",
-     "milled": "false"
+     "price": "$32.99"
     },
     {
      "class": "Sativa",
-     "name": "Twd. | Sativa | 7g",
-     "quantity": "7",
+     "name": "Twd. | Sativa",
+     "type": "Whole",
+     "quantity": "7g",
      "strength": "20.0",
-     "price": "$32.99",
-     "milled": "false"
+     "price": "$32.99"
     },
     {
      "class": "Hybrid",
-     "name": "♥ FIGR Limited Edition | Couch Banana | 7g",
-     "quantity": "7",
+     "name": "FIGR Limited Edition | Couch Banana",
+     "type": "Whole",
+     "quantity": "7g",
      "strength": "27.5",
-     "price": "$36.90",
-     "milled": "false"
+     "price": "$36.90"
     },
     {
      "class": "Indica",
-     "name": "Canaca | Afghaniskunk | 7g",
-     "quantity": "7",
+     "name": "Canaca | Afghaniskunk",
+     "type": "Whole",
+     "quantity": "7g",
      "strength": "26.9",
-     "price": "$36.99",
-     "milled": "false"
+     "price": "$36.99"
     },
     {
      "class": "Sativa",
-     "name": "Edison | Limelight | 7g",
-     "quantity": "7",
+     "name": "Edison | Limelight",
+     "type": "Whole",
+     "quantity": "7g",
      "strength": "25.5",
-     "price": "$39.99",
-     "milled": "false"
+     "price": "$39.99"
     },
     {
      "class": "Hybrid",
-     "name": "Tweed | Tinys Clementine Cookies | 7g",
-     "quantity": "7",
+     "name": "Tweed | Tinys Clementine Cookies",
+     "type": "Whole",
+     "quantity": "7g",
      "strength": "29.0",
-     "price": "$39.99",
-     "milled": "false"
+     "price": "$39.99"
     },
     {
      "class": "Indica",
-     "name": "WeedMe | Maple RNTZ | 7g",
-     "quantity": "7",
+     "name": "WeedMe | Maple RNTZ",
+     "type": "Whole",
+     "quantity": "7g",
      "strength": "29.5",
-     "price": "$48.93",
-     "milled": "false"
+     "price": "$48.93"
     },
     {
      "class": "Sativa",
-     "name": "Seaweed | Dutch Moonshine | 7g",
-     "quantity": "7",
+     "name": "Seaweed | Dutch Moonshine",
+     "type": "Whole",
+     "quantity": "7g",
      "strength": "27.2",
-     "price": "$52.26",
-     "milled": "false"
+     "price": "$52.26"
     },
     {
      "class": "Hybrid",
-     "name": "Seaweed | Grape Diamond | 7g",
-     "quantity": "7",
+     "name": "Seaweed | Grape Diamond",
+     "type": "Whole",
+     "quantity": "7g",
      "strength": "24.5",
-     "price": "$52.26",
-     "milled": "false"
+     "price": "$52.26"
     },
     {
      "class": "Hybrid",
-     "name": "Parcel | Sweet Notes | 14g",
-     "quantity": "14",
+     "name": "Parcel | Sweet Notes",
+     "type": "Whole",
+     "quantity": "14g",
      "strength": "24",
-     "price": "$54.99",
-     "milled": "false"
+     "price": "$54.99"
     },
     {
      "class": "Sativa",
-     "name": "Hiway | Fast Lane | 14g",
-     "quantity": "14",
+     "name": "Hiway | Fast Lane",
+     "type": "Whole",
+     "quantity": "14g",
      "strength": "20.6",
-     "price": "$59.99",
-     "milled": "false"
+     "price": "$59.99"
     },
     {
      "class": "Indica",
-     "name": "Hiway | Slow Lane | 14g",
-     "quantity": "14",
+     "name": "Hiway | Slow Lane",
+     "type": "Whole",
+     "quantity": "14g",
      "strength": "22",
-     "price": "$59.99",
-     "milled": "false"
+     "price": "$59.99"
     },
     {
      "class": "Sativa",
-     "name": "Pure Laine | Special Haze | 14g",
-     "quantity": "14",
+     "name": "Pure Laine | Special Haze",
+     "type": "Whole",
+     "quantity": "14g",
      "strength": "25.2",
-     "price": "$60.64",
-     "milled": "false"
+     "price": "$60.64"
     },
     {
      "class": "Sativa",
-     "name": "Edison | Limexlight | 14g",
-     "quantity": "14",
+     "name": "Edison | Limexlight",
+     "type": "Whole",
+     "quantity": "14g",
      "strength": "25.5",
-     "price": "$64.99",
-     "milled": "false"
+     "price": "$64.99"
     },
     {
      "class": "Hybrid",
-     "name": "Tweed | Double Moon | 14g",
-     "quantity": "14",
+     "name": "Tweed | Double Moon",
+     "type": "Whole",
+     "quantity": "14g",
      "strength": "24.6",
-     "price": "$69.99",
-     "milled": "false"
+     "price": "$69.99"
     },
     {
      "class": "Sativa",
-     "name": "MTL | Sage n Sour | 14g",
-     "quantity": "14",
+     "name": "MTL | Sage n Sour",
+     "type": "Whole",
+     "quantity": "14g",
      "strength": "28.0",
-     "price": "$96.99",
-     "milled": "false"
+     "price": "$96.99"
     },
     {
      "class": "Sativa",
-     "name": "krft | Khalifa Mints | 14g",
-     "quantity": "14",
+     "name": "krft | Khalifa Mints",
+     "type": "Whole",
+     "quantity": "14g",
      "strength": "29.8",
-     "price": "$107.99",
-     "milled": "false"
+     "price": "$107.99"
     },
     {
      "class": "Hybrid",
-     "name": "SHRED | All Dressed | 7g",
-     "quantity": "7",
+     "name": "SHRED | All Dressed",
+     "type": "Milled",
+     "quantity": "7g",
      "strength": "25.1",
-     "price": "$29.99",
-     "milled": "true"
+     "price": "$29.99"
     },
     {
      "class": "Indica",
-     "name": "SHRED | Funkmaster | 7g",
-     "quantity": "7",
+     "name": "SHRED | Funkmaster",
+     "type": "Milled",
+     "quantity": "7g",
      "strength": "21.6",
-     "price": "$29.99",
-     "milled": "true"
+     "price": "$29.99"
     },
     {
      "class": "Sativa",
-     "name": "SHRED | Tropic Thunder | 7g",
-     "quantity": "7",
+     "name": "SHRED | Tropic Thunder",
+     "type": "Milled",
+     "quantity": "7g",
      "strength": "20.1",
-     "price": "$29.99",
-     "milled": "true"
+     "price": "$29.99"
     },
     {
      "class": "Sativa",
-     "name": "♥ WeedMe | Sativa Milled | 7g",
-     "quantity": "7",
+     "name": "WeedMe | Sativa Milled",
+     "type": "Milled",
+     "quantity": "7g",
      "strength": "32.1",
-     "price": "$30.81",
-     "milled": "true"
+     "price": "$30.81"
     },
     {
      "class": "Hybrid",
-     "name": "Super Toast | Sgt. Pineapple | 7g",
-     "quantity": "7",
+     "name": "Super Toast | Sgt. Pineapple",
+     "type": "Milled",
+     "quantity": "7g",
      "strength": "26.9",
-     "price": "$33.99",
-     "milled": "true"
+     "price": "$33.99"
     },
     {
      "class": "Hybrid",
-     "name": "Oceanic | 7 Seas Milled | 5g",
-     "quantity": "5",
+     "name": "Oceanic | 7 Seas Milled",
+     "type": "Milled",
+     "quantity": "5g",
      "strength": "34.5",
-     "price": "$34.83",
-     "milled": "true"
+     "price": "$34.83"
     },
     {
      "class": "Sativa",
-     "name": "Seaweed | High Tide Milled | 7g",
-     "quantity": "7",
+     "name": "Seaweed | High Tide Milled",
+     "type": "Milled",
+     "quantity": "7g",
      "strength": "25.7",
-     "price": "$34.83",
-     "milled": "true"
+     "price": "$34.83"
     },
     {
      "class": "Hybrid",
-     "name": "Oceanic | Even Keel | 7g",
-     "quantity": "7",
+     "name": "Oceanic | Even Keel",
+     "type": "Milled",
+     "quantity": "7g",
      "strength": "10.6, 15.5",
-     "price": "$34.99",
-     "milled": "true"
+     "price": "$34.99"
     },
     {
      "class": "Hybrid",
-     "name": "Booty | Milled | 10g",
-     "quantity": "10",
+     "name": "Booty | Milled",
+     "type": "Milled",
+     "quantity": "10g",
      "strength": "22.4",
-     "price": "$39.99",
-     "milled": "true"
+     "price": "$39.99"
     },
     {
      "class": "Combo",
-     "name": "SHRED | Rainbow Oz | 4 x 7g",
-     "quantity": "28",
+     "name": "SHRED | Rainbow Oz",
+     "type": "Milled",
+     "quantity": "4 x 7g",
      "strength": "21.5-22.2",
-     "price": "$109.99",
-     "milled": "true"
+     "price": "$109.99"
     }
    ]

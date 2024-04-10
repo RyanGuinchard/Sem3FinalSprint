@@ -12,7 +12,7 @@ const getAll = async () => {
     const client = await pool.connect();
     try {
         const result = await client.query(`
-            SELECT 'concentrate' AS category, * FROM concentrate
+            SELECT 'concentrates' AS category, * FROM concentrates
             UNION ALL
             SELECT 'edible' AS category, * FROM edible
             UNION ALL
@@ -22,6 +22,39 @@ const getAll = async () => {
             UNION ALL
             SELECT 'vaporizer' AS category, * FROM vaporizer;
         `);
+        return result.rows;
+    } finally {
+        client.release();
+    }
+}
+
+const searchAll = async (searchTerm) => {
+    const client = await pool.connect();
+    try {
+        // Split the search term into individual terms
+        const terms = searchTerm.split(' ');
+
+        // Create a LIKE clause for each term
+        const clauses = terms.map(term => `
+            (LOWER(name) LIKE LOWER('%${term}%') OR LOWER(quantity::text) LIKE LOWER('%${term}%') OR LOWER(type) LIKE LOWER('%${term}%') OR LOWER(strength) LIKE LOWER('%${term}%') OR LOWER(class) LIKE LOWER('%${term}%'))
+        `);
+
+        // Join the clauses with AND
+        const clause = clauses.join(' AND ');
+
+        const query = `
+            SELECT 'concentrates' AS category, * FROM concentrates WHERE ${clause}
+            UNION ALL
+            SELECT 'edible' AS category, * FROM edible WHERE ${clause}
+            UNION ALL
+            SELECT 'flower' AS category, * FROM flower WHERE ${clause}
+            UNION ALL
+            SELECT 'preroll' AS category, * FROM preroll WHERE ${clause}
+            UNION ALL
+            SELECT 'vaporizer' AS category, * FROM vaporizer WHERE ${clause}
+        `;
+
+        const result = await client.query(query);
         return result.rows;
     } finally {
         client.release();
@@ -92,6 +125,7 @@ const deleteEntry = async (table, id) => {
 
 module.exports = {
     getAll,
+    searchAll,
     getByIdFromTable,
     getAllFromTable,
     insertEntry,

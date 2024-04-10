@@ -2,9 +2,15 @@
 <body>
   <h1>Search Results</h1>
   <%- include('./partials/nav') %>
-  <ul>
+  <ul class="results">
     <% results.forEach(result => { %>
-      <li><%= result.name %></li>
+      <% if (result.results) { %>
+        <% result.results.forEach(doc => { %>
+          <li><%= doc.name %> - <%= doc.quantity %> - <%= doc.strength %> - <%= doc.price %></li>
+        <% }) %>
+      <% } else { %>
+        <li><%= result.name %> - <%= result.quantity %> - <%= result.strength %> - <%= result.price %></li>
+      <% } %>
     <% }) %>
   </ul>
 </body>

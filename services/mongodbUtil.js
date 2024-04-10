@@ -28,14 +28,26 @@ const close = async () => {
   }
 };
 
-const searchAllCollections = async (searchQuery) => {
+const searchAllCollections = async (searchTerm) => {
   try {
     await connect();
     const database = db();
     const collections = await database.listCollections().toArray();
     const searchPromises = collections.map(async (collection) => {
-      const results = await database.collection(collection.name).find({ 
-        $text: { $search: searchQuery } 
+      const coll = database.collection(collection.name);
+      // Create a regular expression for each word in the search term
+      const searchRegexes = searchTerm.split(' ').map(word => new RegExp(word, 'i'));
+      const results = await coll.find({ 
+        $and: searchRegexes.map(regex => ({
+          $or: [
+            { class: regex }, 
+            { name: regex }, 
+            { quantity: regex }, 
+            { type: regex }, 
+            { price: regex }, 
+            { strength: regex }
+          ]
+        }))
       }).toArray();
       return { collection: collection.name, results };
     });

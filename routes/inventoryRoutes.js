@@ -8,7 +8,8 @@ app.locals.useMongoDB = true;
 
 router.get("/", (req, res) => {
   const isLoggedIn = req.cookies.username ? true : false;
-  res.render("index", { isLoggedIn, useMongoDB: app.locals.useMongoDB });
+  const isAdmin = req.cookies.isAdmin === 'true';
+  res.render("index", { isLoggedIn, isAdmin, useMongoDB: app.locals.useMongoDB });
 });
 
 router.get("/toggle-database", (req, res) => {
@@ -21,25 +22,36 @@ router.get("/toggle-database", (req, res) => {
 });
 
 router.get("/search", async (req, res) => {
+  const isLoggedIn = req.cookies.username ? true : false;
+  const isAdmin = req.cookies.isAdmin === 'true';
+  const searchTerm = req.query.q;
+  console.log(`Search term: ${searchTerm}`)
   if (app.locals.useMongoDB) {
-    const { query } = req.query;
     try {
-      const results = await mongodbUtil.searchAllCollections(query);
+      const results = await mongodbUtil.searchAllCollections(searchTerm);
       // Render the results view, passing the search results
-      res.render("results", { query: query, results: results });
+      res.render("results", { isLoggedIn, isAdmin, query: searchTerm, results: results, useMongoDB: app.locals.useMongoDB });
     } catch (err) {
-      res.status(500).render("error", { error: err });
+      console.error(err);
+      res.status(500).send('Error occurred while searching');
     }
   } else {
-    //SQL logic
+    try {
+      const results = await pgDal.searchAll(searchTerm);
+      res.render('results', { results, isLoggedIn, isAdmin, useMongoDB: app.locals.useMongoDB });
+    } catch (err) {
+      console.error(err);
+      res.status(500).send('Error occurred while searching');
+    }
   }
 });
 
 router.get("/category/:category", async (req, res) => {
   const category = req.params.category;
-  // Get isLoggedIn from the cookies
-  const isLoggedIn = req.cookies.isLoggedIn || false;
-
+  // Get isLoggedIn and isAdmin from the cookies
+  const isLoggedIn = req.cookies.username ? true : false;
+  const isAdmin = req.cookies.isAdmin === 'true';
+  console.log(`Category changed to: ${category}`)
   const title = category.charAt(0).toUpperCase() + category.slice(1);
   if (app.locals.useMongoDB) {
     // Use MongoDB to get products
@@ -54,6 +66,7 @@ router.get("/category/:category", async (req, res) => {
         products: products,
         category: title,
         isLoggedIn: isLoggedIn,
+        isAdmin: isAdmin,
         useMongoDB: app.locals.useMongoDB,
       });
       mongodbUtil.close();
@@ -74,6 +87,7 @@ router.get("/category/:category", async (req, res) => {
         products: products,
         category: title,
         isLoggedIn: isLoggedIn,
+        isAdmin: isAdmin,
         useMongoDB: app.locals.useMongoDB,
       });
     } catch (err) {

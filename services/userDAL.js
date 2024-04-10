@@ -12,27 +12,26 @@ const pool = new Pool({
 const userDAL = {
   async createUser(username, password, isAdmin = false) {
     try {
-      // Check if the user is an admin
-      if (isAdmin) {
+        // Check if a user with the same username already exists
+        const existingUser = await this.getUserByUsername(username);
+        if (existingUser) {
+            throw new Error('A user with this username already exists');
+        }
+
         // Hash the password
         const hashedPassword = await bcrypt.hash(password, 10);
 
         // Insert the new user into the database
         const query =
-          "INSERT INTO users (username, password, isAdmin) VALUES ($1, $2, $3) RETURNING id";
+            "INSERT INTO users (username, password, isAdmin) VALUES ($1, $2, $3) RETURNING id";
         const values = [username, hashedPassword, isAdmin];
         const result = await pool.query(query, values);
 
         return result.rows[0].id;
-      } else {
-        throw new Error(
-          "Only administrators are allowed to register new users"
-        );
-      }
     } catch (error) {
-      throw new Error("Error creating user: " + error.message);
+        throw new Error("Error creating user: " + error.message);
     }
-  },
+},
 
   async getUserByUsername(username) {
     try {

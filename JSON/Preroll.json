@@ -1,891 +1,1018 @@
 [
     {
      "class": "Indica",
-     "name": "Fuego | Night Rider | 1 x 0.5g",
+     "name": "Fuego | Night Rider ",
+     "type": "Regular",
+     "quantity": "0.5g",
      "strength": "22.3",
-     "price": "$4.49",
-     "infused": "FALSE"
+     "price": "$4.49"
     },
     {
      "class": "Sativa",
-     "name": "Fuego | Sunny Daze | 1 x 0.5g",
+     "name": "Fuego | Sunny Daze ",
+     "type": "Regular",
+     "quantity": "0.5g",
      "strength": "22.3",
-     "price": "$4.49",
-     "infused": "FALSE"
+     "price": "$4.49"
     },
     {
      "class": "Indica",
-     "name": "Trailblazer | Dank Dreamz | 1 x 0.5g",
+     "name": "Trailblazer | Dank Dreamz ",
+     "type": "Regular",
+     "quantity": "0.5g",
      "strength": "24.2",
-     "price": "$4.49",
-     "infused": "FALSE"
+     "price": "$4.49"
     },
     {
      "class": "Indica",
-     "name": "Wagners | Stunnerz | 1 x 0.5g",
+     "name": "Wagners | Stunnerz ",
+     "type": "Regular",
+     "quantity": "0.5g",
      "strength": "25",
-     "price": "$4.49",
-     "infused": "FALSE"
+     "price": "$4.49"
     },
     {
      "class": "Indica",
-     "name": "Delta 9 | Bliss | 2 x 0.5g",
+     "name": "Delta 9 | Bliss ",
+     "type": "Regular",
+     "quantity": "0.5g",
      "strength": "13.9",
-     "price": "$6.99",
-     "infused": "FALSE"
+     "price": "$6.99"
     },
     {
      "class": "Hybrid",
-     "name": "Good Supply | Growers Choice Hybrid | 1 x 1g",
+     "name": "Good Supply | Growers Choice Hybrid",
+     "type": "Regular",
+     "quantity": "1g",
      "strength": "19.2",
-     "price": "$6.99",
-     "infused": "FALSE"
+     "price": "$6.99"
     },
     {
      "class": "Sativa",
-     "name": "Good Supply | Growers Choice Sativa | 1 x 1g",
+     "name": "Good Supply | Growers Choice Sativa",
+     "type": "Regular",
+     "quantity": "1g",
      "strength": "21.3",
-     "price": "$6.99",
-     "infused": "FALSE"
+     "price": "$6.99"
     },
     {
      "class": "Indica",
-     "name": "Booty | Indica Doobies | 2 x 0.5g",
+     "name": "Booty | Indica Doobies ",
+     "type": "Regular",
+     "quantity": "0.5g",
      "strength": "21.9",
-     "price": "$7.25",
-     "infused": "FALSE"
+     "price": "$7.25"
     },
     {
      "class": "Sativa",
-     "name": "Booty | Sativa Doobies | 2 x 0.5g",
+     "name": "Booty | Sativa Doobies ",
+     "type": "Regular",
+     "quantity": "0.5g",
      "strength": "24.4",
-     "price": "$7.25",
-     "infused": "FALSE"
+     "price": "$7.25"
     },
     {
      "class": "Hybrid",
-     "name": "Delta 9 | Growers Private Stash Stubbies | 4 x 0.25g",
+     "name": "Delta 9 | Growers Private Stash Stubbies",
+     "type": "Regular",
+     "quantity": "4 x 0.25g",
      "strength": "21.9",
-     "price": "$7.49",
-     "infused": "FALSE"
+     "price": "$7.49"
     },
     {
      "class": "Indica",
-     "name": "Delta 9 | Twist | 2 x 0.5g",
+     "name": "Delta 9 | Twist ",
+     "type": "Regular",
+     "quantity": "0.5g",
      "strength": "18.5",
-     "price": "$7.49",
-     "infused": "FALSE"
+     "price": "$7.49"
     },
     {
      "class": "Hybrid",
-     "name": "Delta 9 | Helix | 2 x 0.5g",
+     "name": "Delta 9 | Helix ",
+     "type": "Regular",
+     "quantity": "0.5g",
      "strength": "22.1",
-     "price": "$7.99",
-     "infused": "FALSE"
+     "price": "$7.99"
     },
     {
      "class": "Indica",
-     "name": "Spinach | GMO Cookies | 1 x 1g",
+     "name": "Spinach | GMO Cookies",
+     "type": "Regular",
+     "quantity": "1g",
      "strength": "23.8",
-     "price": "$8.49",
-     "infused": "FALSE"
+     "price": "$8.49"
     },
     {
      "class": "Hybrid",
-     "name": "Pure Laine | Suzettes | 5 x 0.33g",
+     "name": "Pure Laine | Suzettes",
+     "type": "Regular",
+     "quantity": "5 x 0.33g",
      "strength": "27.3",
-     "price": "$10.50",
-     "infused": "FALSE"
+     "price": "$10.50"
     },
     {
      "class": "Indica",
-     "name": "Oceanic | Black Cookies | 1 x 1g",
+     "name": "Oceanic | Black Cookies",
+     "type": "Regular",
+     "quantity": "1g",
      "strength": "29.0",
-     "price": "$10.99",
-     "infused": "FALSE"
+     "price": "$10.99"
     },
     {
      "class": "Indica",
-     "name": "BOLD | Root Beer Float Blunt | 1g",
+     "name": "BOLD | Root Beer Float Blunt",
+     "type": "Regular",
+     "quantity": "1g",
      "strength": "33.5",
-     "price": "$10.99",
-     "infused": "FALSE"
+     "price": "$10.99"
     },
     {
      "class": "Hybrid",
-     "name": "Delta 9 | Scoops | 3 x 0.5g",
+     "name": "Delta 9 | Scoops",
+     "type": "Regular",
+     "quantity": "5 x 0.5g",
      "strength": "20.1",
-     "price": "$11.49",
-     "infused": "FALSE"
+     "price": "$11.49"
     },
     {
      "class": "Indica",
-     "name": "Spinach | Atomic Sour Grapefruit | 3 x 0.5g",
+     "name": "Spinach | Atomic Sour Grapefruit",
+     "type": "Regular",
+     "quantity": "5 x 0.5g",
      "strength": "21.7",
-     "price": "$11.49",
-     "infused": "FALSE"
+     "price": "$11.49"
     },
     {
      "class": "Indica",
-     "name": "BLK MKT | Bacio Gelato | 1 x 1g",
+     "name": "BLK MKT | Bacio Gelato",
+     "type": "Regular",
+     "quantity": "1g",
      "strength": "24.3",
-     "price": "$11.99",
-     "infused": "FALSE"
+     "price": "$11.99"
     },
     {
      "class": "Indica",
-     "name": "BLK MKT | Jealousy | 1 x 1g",
+     "name": "BLK MKT | Jealousy",
+     "type": "Regular",
+     "quantity": "1g",
      "strength": "22.2",
-     "price": "$11.99",
-     "infused": "FALSE"
+     "price": "$11.99"
     },
     {
      "class": "Indica",
-     "name": "BLK MKT | The Flurry | 1 x 1g",
+     "name": "BLK MKT | The Flurry",
+     "type": "Regular",
+     "quantity": "1g",
      "strength": "26.5",
-     "price": "$11.99",
-     "infused": "FALSE"
+     "price": "$11.99"
     },
     {
      "class": "Indica",
-     "name": "BLK MKT | Pineapple P | 1 x 1g",
+     "name": "BLK MKT | Pineapple P",
+     "type": "Regular",
+     "quantity": "1g",
      "strength": "21.9",
-     "price": "$11.99",
-     "infused": "FALSE"
+     "price": "$11.99"
     },
     {
      "class": "Indica",
-     "name": "Ritual | Black Mamba | 3 x 0.5g",
+     "name": "Ritual | Black Mamba",
+     "type": "Regular",
+     "quantity": "5 x 0.5g",
      "strength": "28.1",
-     "price": "$11.99",
-     "infused": "FALSE"
+     "price": "$11.99"
     },
     {
      "class": "Sativa",
-     "name": "Ritual | French Cookies | 3 x 0.5g",
+     "name": "Ritual | French Cookies",
+     "type": "Regular",
+     "quantity": "5 x 0.5g",
      "strength": "31.9",
-     "price": "$11.99",
-     "infused": "FALSE"
+     "price": "$11.99"
     },
     {
      "class": "Sativa",
-     "name": "Ritual | Halifax Sage | 3 x 0.5g",
+     "name": "Ritual | Halifax Sage",
+     "type": "Regular",
+     "quantity": "5 x 0.5g",
      "strength": "28.4",
-     "price": "$11.99",
-     "infused": "FALSE"
+     "price": "$11.99"
     },
     {
      "class": "Hybrid",
-     "name": "FIGR | CBD Shark | 3 x 0.5g",
+     "name": "FIGR | CBD Shark",
+     "type": "Regular",
+     "quantity": "5 x 0.5g",
      "strength": "4.4, 8.8",
-     "price": "$12.90",
-     "infused": "FALSE"
+     "price": "$12.90"
     },
     {
      "class": "Hybrid",
-     "name": "FIGR | Sunshine Bubble Kush | 3 x 0.5g",
+     "name": "FIGR | Sunshine Bubble Kush",
+     "type": "Regular",
+     "quantity": "5 x 0.5g",
      "strength": "25.3",
-     "price": "$12.90",
-     "infused": "FALSE"
+     "price": "$12.90"
     },
     {
      "class": "Indica",
-     "name": "The Loud Plug | Grape Ape Blunt | 1g",
+     "name": "The Loud Plug | Grape Ape Blunt",
+     "type": "Regular",
+     "quantity": "1g",
      "strength": "29.0",
-     "price": "$12.99",
-     "infused": "FALSE"
+     "price": "$12.99"
     },
     {
      "class": "Hybrid",
-     "name": "Oceanic | Big Jib Draw Blunt | 1 x 1g",
+     "name": "Oceanic | Big Jib Draw Blunt",
+     "type": "Regular",
+     "quantity": "1g",
      "strength": "24.2",
-     "price": "$12.99",
-     "infused": "FALSE"
+     "price": "$12.99"
     },
     {
      "class": "Indica",
-     "name": "Wagner's | Blockhead | 3 x 0.5g",
+     "name": "Wagner's | Blockhead",
+     "type": "Regular",
+     "quantity": "5 x 0.5g",
      "strength": "-",
-     "price": "$13.03",
-     "infused": "FALSE"
+     "price": "$13.03"
     },
     {
      "class": "Indica",
-     "name": "Highland | Dankarooz | 3 x 0.5g",
+     "name": "Highland | Dankarooz",
+     "type": "Regular",
+     "quantity": "5 x 0.5g",
      "strength": "-",
-     "price": "$14.77",
-     "infused": "FALSE"
+     "price": "$14.77"
     },
     {
      "class": "Indica",
-     "name": "Highland | Victory CK | 3 x 0.5g",
+     "name": "Highland | Victory CK",
+     "type": "Regular",
+     "quantity": "5 x 0.5g",
      "strength": "-",
-     "price": "$14.77",
-     "infused": "FALSE"
+     "price": "$14.77"
     },
     {
      "class": "Indica",
-     "name": "Daily Special | Indica Js | 7 x 0.3g",
+     "name": "Daily Special | Indica Js",
+     "type": "Regular",
+     "quantity": "7 x 0.3g",
      "strength": "25.0",
-     "price": "$14.49",
-     "infused": "FALSE"
+     "price": "$14.49"
     },
     {
      "class": "Sativa",
-     "name": "Daily Special | Sativa Js | 7 x 0.3g",
+     "name": "Daily Special | Sativa Js",
+     "type": "Regular",
+     "quantity": "7 x 0.3g",
      "strength": "21.9",
-     "price": "$14.49",
-     "infused": "FALSE"
+     "price": "$14.49"
     },
     {
      "class": "Hybrid",
-     "name": "Pure Sunfarms | Baked Animal | 3 x 0.5g",
+     "name": "Pure Sunfarms | Baked Animal",
+     "type": "Regular",
+     "quantity": "5 x 0.5g",
      "strength": "28.7",
-     "price": "$14.90",
-     "infused": "FALSE"
+     "price": "$14.90"
     },
     {
      "class": "Indica",
-     "name": "BOLD | Death Star | 3 x 0.5g",
+     "name": "BOLD | Death Star",
+     "type": "Regular",
+     "quantity": "5 x 0.5g",
      "strength": "30.0",
-     "price": "$14.99",
-     "infused": "FALSE"
+     "price": "$14.99"
     },
     {
      "class": "Indica",
-     "name": "BOLD | Root Beer Float | 3 x 0.5g",
+     "name": "BOLD | Root Beer Float",
+     "type": "Regular",
+     "quantity": "5 x 0.5g",
      "strength": "34.1",
-     "price": "$14.99",
-     "infused": "FALSE"
+     "price": "$14.99"
     },
     {
      "class": "Combo",
-     "name": "BOLD | Craft Sampler Variety | 3 x 0.5g",
+     "name": "BOLD | Craft Sampler Variety",
+     "type": "Regular",
+     "quantity": "5 x 0.5g",
      "strength": "31.3\/30.0\/31.5",
-     "price": "$14.99",
-     "infused": "FALSE"
+     "price": "$14.99"
     },
     {
      "class": "Sativa",
-     "name": "SKOSHA | Crab Cakes | 3 x 0.5g",
+     "name": "SKOSHA | Crab Cakes",
+     "type": "Regular",
+     "quantity": "5 x 0.5g",
      "strength": "27.7",
-     "price": "$15.64",
-     "infused": "FALSE"
+     "price": "$15.64"
     },
     {
      "class": "Indica",
-     "name": "Wagner's | Forbidden Rntz | 3 x 0.5g",
+     "name": "Wagner's | Forbidden Rntz",
+     "type": "Regular",
+     "quantity": "5 x 0.5g",
      "strength": "24.9",
-     "price": "$15.99",
-     "infused": "FALSE"
+     "price": "$15.99"
     },
     {
      "class": "Sativa",
-     "name": "MTL Cannabis | Jungl' Cake | 3 x 0.5g",
+     "name": "MTL Cannabis | Jungl' Cake",
+     "type": "Regular",
+     "quantity": "5 x 0.5g",
      "strength": "32.0",
-     "price": "$15.99",
-     "infused": "FALSE"
+     "price": "$15.99"
     },
     {
      "class": "Sativa",
-     "name": "MTL Cannabis | Sage n' Sour | 3 x 0.5g",
+     "name": "MTL Cannabis | Sage n' Sour",
+     "type": "Regular",
+     "quantity": "5 x 0.5g",
      "strength": "27.7",
-     "price": "$15.99",
-     "infused": "FALSE"
+     "price": "$15.99"
     },
     {
      "class": "Sativa",
-     "name": "MTL Cannabis | Strawberry n' Mintz | 3 x 0.5g",
+     "name": "MTL Cannabis | Strawberry n' Mintz",
+     "type": "Regular",
+     "quantity": "5 x 0.5g",
      "strength": "34.5",
-     "price": "$15.99",
-     "infused": "FALSE"
+     "price": "$15.99"
     },
     {
      "class": "Indica",
-     "name": "MTL Cannabis | Wes' Coast Kush | 3 x 0.5g",
+     "name": "MTL Cannabis | Wes' Coast Kush",
+     "type": "Regular",
+     "quantity": "5 x 0.5g",
      "strength": "-",
-     "price": "$15.99",
-     "infused": "FALSE"
+     "price": "$15.99"
     },
     {
      "class": "Hybrid",
-     "name": "San Rafael '71 | Moon Berry | 3 x 0.5g",
+     "name": "San Rafael '71 | Moon Berry",
+     "type": "Regular",
+     "quantity": "5 x 0.5g",
      "strength": "8.0, 12.1",
-     "price": "$17.00",
-     "infused": "FALSE"
+     "price": "$17.00"
     },
     {
      "class": "Hybrid",
-     "name": "Highland Grow | Apple Mintz | 3 x 0.5g",
+     "name": "Highland Grow | Apple Mintz",
+     "type": "Regular",
+     "quantity": "5 x 0.5g",
      "strength": "30.4",
-     "price": "$17.38",
-     "infused": "FALSE"
+     "price": "$17.38"
     },
     {
      "class": "Sativa",
-     "name": "Highland Grow | Chemnesia | 3 x 0.5g",
+     "name": "Highland Grow | Chemnesia",
+     "type": "Regular",
+     "quantity": "5 x 0.5g",
      "strength": "31.7",
-     "price": "$17.38",
-     "infused": "FALSE"
+     "price": "$17.38"
     },
     {
      "class": "Indica",
-     "name": "Highland Grow | The Leviathan | 3 x 0.5g",
+     "name": "Highland Grow | The Leviathan",
+     "type": "Regular",
+     "quantity": "5 x 0.5g",
      "strength": "27.8",
-     "price": "$17.38",
-     "infused": "FALSE"
+     "price": "$17.38"
     },
     {
      "class": "Sativa",
-     "name": "TGOD | Organic Cherry Mints | 3 x 0.5g",
+     "name": "TGOD | Organic Cherry Mints",
+     "type": "Regular",
+     "quantity": "5 x 0.5g",
      "strength": "21.4",
-     "price": "$17.99",
-     "infused": "FALSE"
+     "price": "$17.99"
     },
     {
      "class": "Indica",
-     "name": "TGOD | Organic Maple Kush | 3 x 0.5g",
+     "name": "TGOD | Organic Maple Kush",
+     "type": "Regular",
+     "quantity": "5 x 0.5g",
      "strength": "27.6",
-     "price": "$17.99",
-     "infused": "FALSE"
+     "price": "$17.99"
     },
     {
      "class": "Sativa",
-     "name": "TGOD | Organic Sugarbush | 3 x 0.5g",
+     "name": "TGOD | Organic Sugarbush",
+     "type": "Regular",
+     "quantity": "5 x 0.5g",
      "strength": "22.4",
-     "price": "$17.99",
-     "infused": "FALSE"
+     "price": "$17.99"
     },
     {
      "class": "Combo",
-     "name": "BLK MKT | The HALF Pack | 3 x 0.5g",
+     "name": "BLK MKT | The HALF Pack",
+     "type": "Regular",
+     "quantity": "5 x 0.5g",
      "strength": "24.0",
-     "price": "$18.99",
-     "infused": "FALSE"
+     "price": "$18.99"
     },
     {
      "class": "Sativa",
-     "name": "Canaca | Fruitsplosion | 10 x 0.4g",
+     "name": "Canaca | Fruitsplosion ",
+     "type": "Regular",
+     "quantity": "10 x 0.4g",
      "strength": "19.0",
-     "price": "$19.99",
-     "infused": "FALSE"
+     "price": "$19.99"
     },
     {
      "class": "Indica",
-     "name": "Canaca | Parmigiano Dankiano | 10 x 0.4g",
+     "name": "Canaca | Parmigiano Dankiano ",
+     "type": "Regular",
+     "quantity": "10 x 0.4g",
      "strength": "20.6",
-     "price": "$19.99",
-     "infused": "FALSE"
+     "price": "$19.99"
     },
     {
      "class": "Indica",
-     "name": "Harts | Pink Gas | 10 x 0.35g",
+     "name": "Harts | Pink Gas",
+     "type": "Regular",
+     "quantity": "10 x 0.35g",
      "strength": "23.1",
-     "price": "$19.99",
-     "infused": "FALSE"
+     "price": "$19.99"
     },
     {
      "class": "Hybrid",
-     "name": "OHJA | Bluefin Tuna | 10 x 0.35g",
+     "name": "OHJA | Bluefin Tuna",
+     "type": "Regular",
+     "quantity": "10 x 0.35g",
      "strength": "24.1",
-     "price": "$19.99",
-     "infused": "FALSE"
+     "price": "$19.99"
     },
     {
      "class": "Indica",
-     "name": "OHJA | El Jefe Pink | 10 x 0.35g",
+     "name": "OHJA | El Jefe Pink",
+     "type": "Regular",
+     "quantity": "10 x 0.35g",
      "strength": "20.9",
-     "price": "$19.99",
-     "infused": "FALSE"
+     "price": "$19.99"
     },
     {
      "class": "Indica",
-     "name": "OHJA | Lemon Cherry Gelato | 10 x 0.35g",
+     "name": "OHJA | Lemon Cherry Gelato",
+     "type": "Regular",
+     "quantity": "10 x 0.35g",
      "strength": "23.6",
-     "price": "$19.99",
-     "infused": "FALSE"
+     "price": "$19.99"
     },
     {
      "class": "Sativa",
-     "name": "OHJA | Lemon Mintz | 10 x 0.35g",
+     "name": "OHJA | Lemon Mintz",
+     "type": "Regular",
+     "quantity": "10 x 0.35g",
      "strength": "22.4",
-     "price": "$19.99",
-     "infused": "FALSE"
+     "price": "$19.99"
     },
     {
      "class": "Sativa",
-     "name": "OHJA | Truffle Breath | 10 x 0.35g",
+     "name": "OHJA | Truffle Breath",
+     "type": "Regular",
+     "quantity": "10 x 0.35g",
      "strength": "22.3",
-     "price": "$19.99",
-     "infused": "FALSE"
+     "price": "$19.99"
     },
     {
      "class": "Hybrid",
-     "name": "Spinach | Cocoa Bomba | 10 x 0.35g",
+     "name": "Spinach | Cocoa Bomba",
+     "type": "Regular",
+     "quantity": "10 x 0.35g",
      "strength": "25.0",
-     "price": "$19.99",
-     "infused": "FALSE"
+     "price": "$19.99"
     },
     {
      "class": "Indica",
-     "name": "Spinach | GMO Cookies | 10 x 0.35g",
+     "name": "Spinach | GMO Cookies",
+     "type": "Regular",
+     "quantity": "10 x 0.35g",
      "strength": "22.8",
-     "price": "$19.99",
-     "infused": "FALSE"
+     "price": "$19.99"
     },
     {
      "class": "Combo",
-     "name": "Edison Pinners | Limelight\/Cobra Milk | 10x0.35g",
+     "name": "Edison Pinners | Limelight\/Cobra Milk",
+     "type": "Regular",
+     "quantity": "10 x 0.35g",
      "strength": "21.7 \/ 21.0",
-     "price": "$19.99",
-     "infused": "FALSE"
+     "price": "$19.99"
     },
     {
      "class": "Indica",
-     "name": "SHRED | Gnarberry Dartz | 10 x 0.4g",
+     "name": "SHRED | Gnarberry Dartz ",
+     "type": "Regular",
+     "quantity": "10 x 0.4g",
      "strength": "24.4",
-     "price": "$19.99",
-     "infused": "FALSE"
+     "price": "$19.99"
     },
     {
      "class": "Indica",
-     "name": "Holy Mountain | Purple Punch-Out!! | 10 x 0.4g",
+     "name": "Holy Mountain | Purple Punch-Out!! ",
+     "type": "Regular",
+     "quantity": "10 x 0.4g",
      "strength": "24.3",
-     "price": "$19.99",
-     "infused": "FALSE"
+     "price": "$19.99"
     },
     {
      "class": "Sativa",
-     "name": "Pure Sunfarms | Berry Cream Puff | 10 x 0.3g",
+     "name": "Pure Sunfarms | Berry Cream Puff",
+     "type": "Regular",
+     "quantity": "10 x 0.3g",
      "strength": "20.7",
-     "price": "$19.99",
-     "infused": "FALSE"
+     "price": "$19.99"
     },
     {
      "class": "Hybrid",
-     "name": "FIGR | Sunshine Bubble Kush | 10 x 0.35g",
+     "name": "FIGR | Sunshine Bubble Kush",
+     "type": "Regular",
+     "quantity": "10 x 0.35g",
      "strength": "26.3",
-     "price": "$22.90",
-     "infused": "FALSE"
+     "price": "$22.90"
     },
     {
      "class": "Indica",
-     "name": "Tweed Quickies Lites | CBD OG Kush | 10 x 0.35g",
+     "name": "Tweed Quickies Lites | CBD OG Kush",
+     "type": "Regular",
+     "quantity": "10 x 0.35g",
      "strength": "4.5, 13.6",
-     "price": "$22.98",
-     "infused": "FALSE"
+     "price": "$22.98"
     },
     {
      "class": "Sativa",
-     "name": "Tweed Quickies | Chemsicle | 10 x 0.35g",
+     "name": "Tweed Quickies | Chemsicle",
+     "type": "Regular",
+     "quantity": "10 x 0.35g",
      "strength": "25.5",
-     "price": "$22.98",
-     "infused": "FALSE"
+     "price": "$22.98"
     },
     {
      "class": "Indica",
-     "name": "Tweed Quickies | Gorilla Berry | 10 x 0.35g",
+     "name": "Tweed Quickies | Gorilla Berry",
+     "type": "Regular",
+     "quantity": "10 x 0.35g",
      "strength": "25.5",
-     "price": "$22.98",
-     "infused": "FALSE"
+     "price": "$22.98"
     },
     {
      "class": "Sativa",
-     "name": "Tweed | Lemon Meringue Pie | 10 x 0.35g",
+     "name": "Tweed | Lemon Meringue Pie",
+     "type": "Regular",
+     "quantity": "10 x 0.35g",
      "strength": "23.2",
-     "price": "$22.98",
-     "infused": "FALSE"
+     "price": "$22.98"
     },
     {
      "class": "Hybrid",
-     "name": "Tweed Quickies | Kush Mints | 10 x 0.35g",
+     "name": "Tweed Quickies | Kush Mints",
+     "type": "Regular",
+     "quantity": "10 x 0.35g",
      "strength": "24.7",
-     "price": "$22.98",
-     "infused": "FALSE"
+     "price": "$22.98"
     },
     {
      "class": "Hybrid",
-     "name": "7Acres | Burners | 3 x 0.7g",
+     "name": "7Acres | Burners",
+     "type": "Regular",
+     "quantity": "3 x 0.7g",
      "strength": "26.9",
-     "price": "$22.99",
-     "infused": "FALSE"
+     "price": "$22.99"
     },
     {
      "class": "Sativa",
-     "name": "BackForty | Mandarin Cookies | 10 x 0.35g",
+     "name": "BackForty | Mandarin Cookies",
+     "type": "Regular",
+     "quantity": "10 x 0.35g",
      "strength": "25.0",
-     "price": "$22.99",
-     "infused": "FALSE"
+     "price": "$22.99"
     },
     {
      "class": "Combo",
-     "name": "Delta 9 | Toker's Trio Vol. 2 | 6 x 0.5g",
+     "name": "Delta 9 | Toker's Trio Vol. 2",
+     "type": "Regular",
+     "quantity": "6x 0.5g",
      "strength": "21.7-27.5",
-     "price": "$22.99",
-     "infused": "FALSE"
+     "price": "$22.99"
     },
     {
      "class": "Hybrid",
-     "name": "Good Supply | Pineapple Express | 10 x 0.35g",
+     "name": "Good Supply | Pineapple Express",
+     "type": "Regular",
+     "quantity": "10 x 0.35g",
      "strength": "20.1",
-     "price": "$22.99",
-     "infused": "FALSE"
+     "price": "$22.99"
     },
     {
      "class": "Indica",
-     "name": "TGOD | Gold Butter MAC | 5 x 0.5g",
+     "name": "TGOD | Gold Butter MAC",
+     "type": "Regular",
+     "quantity": "5 x 0.5g",
      "strength": "35",
-     "price": "$23.20",
-     "infused": "FALSE"
+     "price": "$23.20"
     },
     {
      "class": "Indica",
-     "name": "FIGR | Sour OG Cheese | 10 x 0.35g",
+     "name": "FIGR | Sour OG Cheese",
+     "type": "Regular",
+     "quantity": "10 x 0.35g",
      "strength": "25.6",
-     "price": "$23.90",
-     "infused": "FALSE"
+     "price": "$23.90"
     },
     {
      "class": "Sativa",
-     "name": "Redecan | Cold Creek Kush | 10 x 0.4g",
+     "name": "Redecan | Cold Creek Kush ",
+     "type": "Regular",
+     "quantity": "10 x 0.4g",
      "strength": "19.5",
-     "price": "$23.99",
-     "infused": "FALSE"
+     "price": "$23.99"
     },
     {
      "class": "Indica",
-     "name": "Redecan | Wappa | 10 x 0.4g",
+     "name": "Redecan | Wappa ",
+     "type": "Regular",
+     "quantity": "10 x 0.4g",
      "strength": "22.1",
-     "price": "$23.99",
-     "infused": "FALSE"
+     "price": "$23.99"
     },
     {
      "class": "Hybrid",
-     "name": "Tweed Quickies | Deep Breath | 10 x 0.35g",
+     "name": "Tweed Quickies | Deep Breath",
+     "type": "Regular",
+     "quantity": "10 x 0.35g",
      "strength": "25.6",
-     "price": "$24.99",
-     "infused": "FALSE"
+     "price": "$24.99"
     },
     {
      "class": "Hybrid",
-     "name": "Booty | Hybrid Doobies | 10 x 0.5g",
+     "name": "Booty | Hybrid Doobies",
+     "type": "Regular",
+     "quantity": "10 x 0.5g",
      "strength": "24.4",
-     "price": "$24.99",
-     "infused": "FALSE"
+     "price": "$24.99"
     },
     {
      "class": "Hybrid",
-     "name": "Treehugger | Organic Sweet Fuel OG | 10 x 0.3g",
+     "name": "Treehugger | Organic Sweet Fuel OG",
+     "type": "Regular",
+     "quantity": "10 x 0.3g",
      "strength": "26.2",
-     "price": "$26.49",
-     "infused": "FALSE"
+     "price": "$26.49"
     },
     {
      "class": "Indica",
-     "name": "San Rafael '71 | Chemango Kush | 7 x 0.5g",
+     "name": "San Rafael '71 | Chemango Kush",
+     "type": "Regular",
+     "quantity": "7 x 0.5g",
      "strength": "25.4",
-     "price": "$30.99",
-     "infused": "FALSE"
+     "price": "$30.99"
     },
     {
      "class": "Indica",
-     "name": "Ritual Sticks | Black Mamba | 10 x 0.5g",
+     "name": "Ritual Sticks | Black Mamba",
+     "type": "Regular",
+     "quantity": "10 x 0.5g",
      "strength": "28.1",
-     "price": "$31.99",
-     "infused": "FALSE"
+     "price": "$31.99"
     },
     {
      "class": "Indica",
-     "name": "Harts | Kush Mintz | 10 x 0.4g",
+     "name": "Harts | Kush Mintz ",
+     "type": "Regular",
+     "quantity": "10 x 0.4g",
      "strength": "20.9",
-     "price": "$33.99",
-     "infused": "FALSE"
+     "price": "$33.99"
     },
     {
      "class": "Combo",
-     "name": "Pipers Punch | Tangria\/Dank n' Stormy | 14 x 0.5g",
+     "name": "Pipers Punch | Tangria\/Dank n' Stormy",
+     "type": "Regular",
+     "quantity": "14 x 0.5g",
      "strength": "22.4\/22.4",
-     "price": "$34.90",
-     "infused": "FALSE"
+     "price": "$34.90"
     },
     {
      "class": "Indica",
-     "name": "Good Supply | Sweet Berry Kush | 14 x 0.5g",
+     "name": "Good Supply | Sweet Berry Kush",
+     "type": "Regular",
+     "quantity": "14 x 0.5g",
      "strength": "20.9",
-     "price": "$34.90",
-     "infused": "FALSE"
+     "price": "$34.90"
     },
     {
      "class": "Sativa",
-     "name": "Fuego | Sunny Daze | 20 x 0.35g",
+     "name": "Fuego | Sunny Daze",
+     "type": "Regular",
+     "quantity": "20 x 0.35g",
      "strength": "24.1",
-     "price": "$34.95",
-     "infused": "FALSE"
+     "price": "$34.95"
     },
     {
      "class": "Indica",
-     "name": "H&S | Dragon's Breath | 14 x 0.5g",
+     "name": "H&S | Dragon's Breath",
+     "type": "Regular",
+     "quantity": "14 x 0.5g",
      "strength": "22.3",
-     "price": "$34.95",
-     "infused": "FALSE"
+     "price": "$34.95"
     },
     {
      "class": "Sativa",
-     "name": "SHRED | Tropic Thunder Jar o' Joints | 14 x 0.5g",
+     "name": "SHRED | Tropic Thunder Jar o' Joints",
+     "type": "Regular",
+     "quantity": "14 x 0.5g",
      "strength": "20.6",
-     "price": "$34.99",
-     "infused": "FALSE"
+     "price": "$34.99"
     },
     {
      "class": "Indica",
-     "name": "SHRED | Funkmaster Jar o' Joints | 14 x 0.5g",
+     "name": "SHRED | Funkmaster Jar o' Joints",
+     "type": "Regular",
+     "quantity": "14 x 0.5g",
      "strength": "21.6",
-     "price": "$34.99",
-     "infused": "FALSE"
+     "price": "$34.99"
     },
     {
      "class": "Hybrid",
-     "name": "Ripped | Joints in a Jar | 14 x 0.5g",
+     "name": "Ripped | Joints in a Jar",
+     "type": "Regular",
+     "quantity": "14 x 0.5g",
      "strength": "20.6",
-     "price": "$34.99",
-     "infused": "FALSE"
+     "price": "$34.99"
     },
     {
      "class": "Combo",
-     "name": "Seaweed | High Tide\/Low Tide\/Undertow | 10 x 0.5g",
+     "name": "Seaweed | High Tide\/Low Tide\/Undertow",
+     "type": "Regular",
+     "quantity": "10 x 0.5g",
      "strength": "25.7-28.9",
-     "price": "$35.99",
-     "infused": "FALSE"
+     "price": "$35.99"
     },
     {
      "class": "Sativa",
-     "name": "Palmetto | Platinum Cookies | 10 x 0.5g",
+     "name": "Palmetto | Platinum Cookies",
+     "type": "Regular",
+     "quantity": "10 x 0.5g",
      "strength": "22.7",
-     "price": "$36.99",
-     "infused": "FALSE"
+     "price": "$36.99"
     },
     {
      "class": "Indica",
-     "name": "WeedMe | 420 Grind Indica | 20 x 0.4g",
+     "name": "WeedMe | 420 Grind Indica",
+     "type": "Regular",
+     "quantity": "20 x 0.4g",
      "strength": "26.0",
-     "price": "$36.99",
-     "infused": "FALSE"
+     "price": "$36.99"
     },
     {
      "class": "Indica",
-     "name": "Highly Dutch | Rotterdam | 14 x 0.5g",
+     "name": "Highly Dutch | Rotterdam",
+     "type": "Regular",
+     "quantity": "14 x 0.5g",
      "strength": "-",
-     "price": "$39.99",
-     "infused": "FALSE"
+     "price": "$39.99"
     },
     {
      "class": "Indica",
-     "name": "Fraser Valley Weed Co. | Big Red | 20 x 0.5g",
+     "name": "Fraser Valley Weed Co. | Big Red",
+     "type": "Regular",
+     "quantity": "20 x 0.5g",
      "strength": "20.2",
-     "price": "$42.99",
-     "infused": "FALSE"
+     "price": "$42.99"
     },
     {
      "class": "Combo",
-     "name": "OHJA | El Jefe Pink & Lemon Mintz | 80 x 0.35g",
+     "name": "OHJA | El Jefe Pink & Lemon Mintz",
+     "type": "Regular",
+     "quantity": "80 x 0.35g",
      "strength": "20.9\/20.3",
-     "price": "$124.99",
-     "infused": "FALSE"
+     "price": "$124.99"
     },
     {
      "class": "Combo",
-     "name": "Redecan | Redees Royal Collection | 70 x 0.4g",
+     "name": "Redecan | Redees Royal Collection",
+     "type": "Regular",
+     "quantity": "70 x 0.4g",
      "strength": "19.6-24.6",
-     "price": "$139.99",
-     "infused": "FALSE"
+     "price": "$139.99"
     },
     {
      "class": "Indica",
-     "name": "RAD | Frosted Fuji Berry Blunt | 1 x 0.5g",
+     "name": "RAD | Frosted Fuji Berry Blunt ",
+     "type": "Infused",
+     "quantity": "0.5g",
      "strength": "42.7",
-     "price": "$11.99",
-     "infused": "TRUE"
+     "price": "$11.99"
     },
     {
      "class": "Indica",
-     "name": "RAD | Blue SKZ | 1 x 0.5g ",
+     "name": "RAD | Blue SKZ",
+     "type": "Infused",
+     "quantity": "0.5g",
      "strength": "43.0",
-     "price": "$11.99",
-     "infused": "TRUE"
+     "price": "$11.99"
     },
     {
      "class": "Hybrid",
-     "name": "BOXHOT | Fatties Alien OG | 1 x 1g",
+     "name": "BOXHOT | Fatties Alien OG",
+     "type": "Infused",
+     "quantity": "1g",
      "strength": "30.0",
-     "price": "$14.99",
-     "infused": "TRUE"
+     "price": "$14.99"
     },
     {
      "class": "Sativa",
-     "name": "BOXHOT | Fatties Peach OG | 1 x 1g",
+     "name": "BOXHOT | Fatties Peach OG",
+     "type": "Infused",
+     "quantity": "1g",
      "strength": "36.7",
-     "price": "$14.99",
-     "infused": "TRUE"
+     "price": "$14.99"
     },
     {
      "class": "Combo",
-     "name": "Spinach | Fully Charged Party Pack | 3 x 0.5g",
+     "name": "Spinach | Fully Charged Party Pack",
+     "type": "Infused",
+     "quantity": "5 x 0.5g",
      "strength": "-",
-     "price": "$18.99",
-     "infused": "TRUE"
+     "price": "$18.99"
     },
     {
      "class": "Indica",
-     "name": "SHRED X | Blueberry Blaster Heavies | 3 x 0.5g",
+     "name": "SHRED X | Blueberry Blaster Heavies",
+     "type": "Infused",
+     "quantity": "5 x 0.5g",
      "strength": "42.8",
-     "price": "$19.99",
-     "infused": "TRUE"
+     "price": "$19.99"
     },
     {
      "class": "Hybrid",
-     "name": "SHRED X | Gnarberry Heavies | 3 x 0.5g",
+     "name": "SHRED X | Gnarberry Heavies",
+     "type": "Infused",
+     "quantity": "5 x 0.5g",
      "strength": "45.4",
-     "price": "$19.99",
-     "infused": "TRUE"
+     "price": "$19.99"
     },
     {
      "class": "Sativa",
-     "name": "SHRED X | Tropic Thunder Heavies | 3 x 0.5g",
+     "name": "SHRED X | Tropic Thunder Heavies",
+     "type": "Infused",
+     "quantity": "5 x 0.5g",
      "strength": "45.3",
-     "price": "$19.99",
-     "infused": "TRUE"
+     "price": "$19.99"
     },
     {
      "class": "Sativa",
-     "name": "Seaweed | Full Send Sativa | 2 x 0.5g",
+     "name": "Seaweed | Full Send Sativa ",
+     "type": "Infused",
+     "quantity": "0.5g",
      "strength": "40.5",
-     "price": "$19.99",
-     "infused": "TRUE"
+     "price": "$19.99"
     },
     {
      "class": "Indica",
-     "name": "Seaweed | Full Send Indica | 2 x 0.5g ",
+     "name": "Seaweed | Full Send Indica",
+     "type": "Infused",
+     "quantity": "2 x 0.5g",
      "strength": "39.0",
-     "price": "$19.99",
-     "infused": "TRUE"
+     "price": "$19.99"
     },
     {
      "class": "Indica",
-     "name": "Spinach | Blackberry Kush CBN | 3 x 0.5g",
+     "name": "Spinach | Blackberry Kush CBN",
+     "type": "Infused",
+     "quantity": "5 x 0.5g",
      "strength": "32.0",
-     "price": "$19.99",
-     "infused": "TRUE"
+     "price": "$19.99"
     },
     {
      "class": "Sativa",
-     "name": "Spinach | Mango Kiwi Haze CBC | 3 x 0.5g",
+     "name": "Spinach | Mango Kiwi Haze CBC",
+     "type": "Infused",
+     "quantity": "5 x 0.5g",
      "strength": "32.0",
-     "price": "$19.99",
-     "infused": "TRUE"
+     "price": "$19.99"
     },
     {
      "class": "Sativa",
-     "name": "WeedMe | Lemon Z | 3 x 0.5g",
+     "name": "WeedMe | Lemon Z",
+     "type": "Infused",
+     "quantity": "5 x 0.5g",
      "strength": "36.9",
-     "price": "$21.03",
-     "infused": "TRUE"
+     "price": "$21.03"
     },
     {
      "class": "Indica",
-     "name": "Spinach | Fully Charged Atomic GMO | 5 x 0.5g",
+     "name": "Spinach | Fully Charged Atomic GMO",
+     "type": "Infused",
+     "quantity": "5 x 0.5g",
      "strength": "35.0",
-     "price": "$22.99",
-     "infused": "TRUE"
+     "price": "$22.99"
     },
     {
      "class": "Sativa",
-     "name": "Back Forty | Strawberry Cough | 3 x 0.5g",
+     "name": "Back Forty | Strawberry Cough",
+     "type": "Infused",
+     "quantity": "5 x 0.5g",
      "strength": "38.9",
-     "price": "$23.00",
-     "infused": "TRUE"
+     "price": "$23.00"
     },
     {
      "class": "Indica",
-     "name": "WeedMe | Diamond District Indica | 3 x 0.5g",
+     "name": "WeedMe | Diamond District Indica",
+     "type": "Infused",
+     "quantity": "5 x 0.5g",
      "strength": "42.0",
-     "price": "$26.32",
-     "infused": "TRUE"
+     "price": "$26.32"
     },
     {
      "class": "Sativa",
-     "name": "WeedMe | Diamond District Sativa | 3 x 0.5g",
+     "name": "WeedMe | Diamond District Sativa",
+     "type": "Infused",
+     "quantity": "5 x 0.5g",
      "strength": "42.0",
-     "price": "$26.32",
-     "infused": "TRUE"
+     "price": "$26.32"
     },
     {
      "class": "Sativa",
-     "name": "Good Supply | Juiced Maui Mango | 5 x 0.5g ",
+     "name": "Good Supply | Juiced Maui Mango",
+     "type": "Infused",
+     "quantity": "5 x 0.5g",
      "strength": "30.5",
-     "price": "$27.99",
-     "infused": "TRUE"
+     "price": "$27.99"
     },
     {
      "class": "Hybrid",
-     "name": "Good Supply | Juiced Pineapple Paradise | 5 x 0.5g",
+     "name": "Good Supply | Juiced Pineapple Paradise",
+     "type": "Infused",
+     "quantity": "5 x 0.5g",
      "strength": "33.8",
-     "price": "$27.99",
-     "infused": "TRUE"
+     "price": "$27.99"
     },
     {
      "class": "Indica",
-     "name": "Good Supply | Juiced Wild Berry | 5 x 0.5g",
+     "name": "Good Supply | Juiced Wild Berry",
+     "type": "Infused",
+     "quantity": "5 x 0.5g",
      "strength": "-",
-     "price": "$27.99",
-     "infused": "TRUE"
+     "price": "$27.99"
     },
     {
      "class": "Combo",
-     "name": "BZAM | Juicy Jetpack | 4 x 0.5g",
+     "name": "BZAM | Juicy Jetpack",
+     "type": "Infused",
+     "quantity": "4 x 0.5g",
      "strength": "34.7-35.7",
-     "price": "$29.99",
-     "infused": "TRUE"
+     "price": "$29.99"
     },
     {
      "class": "Indica",
-     "name": "RAD | Blue SKZ | 3 x 0.5g",
+     "name": "RAD | Blue SKZ",
+     "type": "Infused",
+     "quantity": "5 x 0.5g",
      "strength": "43.1",
-     "price": "$29.99",
-     "infused": "TRUE"
+     "price": "$29.99"
     },
     {
      "class": "Indica",
-     "name": "RAD | Frosted Fuji Berry | 3 x 0.5g",
+     "name": "RAD | Frosted Fuji Berry",
+     "type": "Infused",
+     "quantity": "5 x 0.5g",
      "strength": "42.7",
-     "price": "$29.99",
-     "infused": "TRUE"
+     "price": "$29.99"
     },
     {
      "class": "Indica",
-     "name": "RAD | Watermelon OG | 3 x 0.5g",
+     "name": "RAD | Watermelon OG",
+     "type": "Infused",
+     "quantity": "5 x 0.5g",
      "strength": "35.2",
-     "price": "$29.99",
-     "infused": "TRUE"
+     "price": "$29.99"
     },
     {
      "class": "Indica",
-     "name": "Spinach | Fully Charged Strawberry Slurricane | 5 x 0.5g",
+     "name": "Spinach | Fully Charged Strawberry Slurricane",
+     "type": "Infused",
+     "quantity": "5 x 0.5g",
      "strength": "35.0",
-     "price": "$29.99",
-     "infused": "TRUE"
+     "price": "$29.99"
     },
     {
      "class": "Indica",
-     "name": "Baby Jeeters | Blue SKZ | 5 x 0.5g",
-     "strength": "38",
-     "price": "$33.05",
-     "infused": "TRUE"
+     "name": "Baby Jeeters | Blue SKZ",
+     "type": "Infused",
+     "quantity": "5 x 0.5g",
+     "strength": "38.0",
+     "price": "$33.05"
     },
     {
      "class": "Indica",
-     "name": "Baby Jeeters | Multi-Pack | 5 x 0.5g",
-     "strength": "40",
-     "price": "$34.79",
-     "infused": "TRUE"
+     "name": "Baby Jeeters | Multi-Pack",
+     "type": "Infused",
+     "quantity": "5 x 0.5g",
+     "strength": "40.0",
+     "price": "$34.79"
     }
    ]

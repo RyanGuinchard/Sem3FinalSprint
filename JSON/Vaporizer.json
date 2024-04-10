@@ -2,329 +2,329 @@
     {
      "class": "Indica",
      "name": "Back Forty | Kush Mint Cart",
-     "size": "1",
+     "type": "Cartridge",
+     "quantity": "1g",
      "strength": "90.0",
-     "disposable": "false",
      "price": "$36.99"
     },
     {
      "class": "Hybrid",
      "name": "Booty | Peppermint OG Cart",
-     "size": "1",
+     "type": "Cartridge",
+     "quantity": "1g",
      "strength": "83.9",
-     "disposable": "false",
      "price": "$36.99"
     },
     {
      "class": "Sativa",
      "name": "Booty | Tangie Cart",
-     "size": "1",
+     "type": "Cartridge",
+     "quantity": "1g",
      "strength": "84.6",
-     "disposable": "false",
      "price": "$36.99"
     },
     {
      "class": "Sativa",
      "name": "BOLD | Cherry Bomb Cart",
-     "size": "1",
+     "type": "Cartridge",
+     "quantity": "1g",
      "strength": "88.5",
-     "disposable": "false",
      "price": "$36.99"
     },
     {
      "class": "Indica",
      "name": "BOLD | Tiger's Blood Cart",
-     "size": "1",
+     "type": "Cartridge",
+     "quantity": "1g",
      "strength": "88.5",
-     "disposable": "false",
      "price": "$36.99"
     },
     {
      "class": "Indica",
      "name": "Endgame | Platinum Punch Cart",
-     "size": "1",
+     "type": "Cartridge",
+     "quantity": "1g",
      "strength": "93",
-     "disposable": "false",
      "price": "$36.99"
     },
     {
      "class": "Indica",
      "name": "FIGR | Maple Kush Cart",
-     "size": "1",
+     "type": "Cartridge",
+     "quantity": "1g",
      "strength": "80.2",
-     "disposable": "false",
      "price": "$36.99"
     },
     {
      "class": "Sativa",
      "name": "FIGR | Pineapple Express Cart",
-     "size": "1",
+     "type": "Cartridge",
+     "quantity": "1g",
      "strength": "80.6",
-     "disposable": "false",
      "price": "$36.99"
     },
     {
      "class": "Sativa",
      "name": "FIGR | Purple Trainwreck Cart",
-     "size": "1",
+     "type": "Cartridge",
+     "quantity": "1g",
      "strength": "80.6",
-     "disposable": "false",
      "price": "$36.99"
     },
     {
      "class": "Hybrid",
      "name": "Good Supply | Blue Dream Cart",
-     "size": "1",
+     "type": "Cartridge",
+     "quantity": "1g",
      "strength": "88.6",
-     "disposable": "false",
      "price": "$36.99"
     },
     {
      "class": "Sativa",
      "name": "Good Supply | Pineapple Express Cart",
-     "size": "1",
+     "type": "Cartridge",
+     "quantity": "1g",
      "strength": "91.0",
-     "disposable": "false",
      "price": "$36.99"
     },
     {
      "class": "Hybrid",
      "name": "Good Supply | Purple Monkey Cart",
-     "size": "1",
+     "type": "Cartridge",
+     "quantity": "1g",
      "strength": "92.0",
-     "disposable": "false",
      "price": "$36.99"
     },
     {
      "class": "Sativa",
      "name": "Ness | Apricot Jelly Cart",
-     "size": "1",
+     "type": "Cartridge",
+     "quantity": "1g",
      "strength": "90.3",
-     "disposable": "false",
      "price": "$36.99"
     },
     {
      "class": "Indica",
      "name": "Ness | Ninja Fruit Cart",
-     "size": "1",
+     "type": "Cartridge",
+     "quantity": "1g",
      "strength": "90.3",
-     "disposable": "false",
      "price": "$36.99"
     },
     {
      "class": "Indica",
      "name": "Ritual Gold | Black Mamba Cart",
-     "size": "1",
+     "type": "Cartridge",
+     "quantity": "1g",
      "strength": "83.4",
-     "disposable": "false",
      "price": "$36.99"
     },
     {
      "class": "Indica",
      "name": "Spinach | Atomic Sour Grapefruit Cart",
-     "size": "1",
+     "type": "Cartridge",
+     "quantity": "1g",
      "strength": "82.5",
-     "disposable": "false",
      "price": "$36.99"
     },
     {
      "class": "Sativa",
      "name": "Spinach | Pineapple Paradise Cart",
-     "size": "1",
+     "type": "Cartridge",
+     "quantity": "1g",
      "strength": "91.2",
-     "disposable": "false",
      "price": "$36.99"
     },
     {
      "class": "Indica",
      "name": "Tweed | Mango Haze Cart",
-     "size": "1",
+     "type": "Cartridge",
+     "quantity": "1g",
      "strength": "85.0",
-     "disposable": "false",
      "price": "$36.99"
     },
     {
      "class": "Sativa",
      "name": "ShredX | Tropic Thunder Cart",
-     "size": "1",
+     "type": "Cartridge",
+     "quantity": "1g",
      "strength": "88.0",
-     "disposable": "false",
      "price": "$36.99"
     },
     {
      "class": "Sativa",
      "name": "Tweed | Lemonberry Cart",
-     "size": "1",
+     "type": "Cartridge",
+     "quantity": "1g",
      "strength": "85.0",
-     "disposable": "false",
      "price": "$36.99"
     },
     {
      "class": "Indica",
      "name": "WeedMe | Wedding Cart",
-     "size": "1",
+     "type": "Cartridge",
+     "quantity": "1g",
      "strength": "83.6",
-     "disposable": "false",
      "price": "$36.99"
     },
     {
      "class": "Sativa",
      "name": "♥ Spinach | Pink Lemonade Cart",
-     "size": "1.2",
+     "type": "Cartridge",
+     "quantity": "1.2g",
      "strength": "83.3",
-     "disposable": "false",
      "price": "$39.99"
     },
     {
      "class": "Indica",
      "name": "Roilty | Catacomb Kush Shatter Cart",
-     "size": "1",
+     "type": "Cartridge",
+     "quantity": "1g",
      "strength": "89.5",
-     "disposable": "false",
      "price": "$39.99"
     },
     {
      "class": "Indica",
      "name": "RAD | Rainbow Kush Live Resin Cart",
-     "size": "1",
+     "type": "Cartridge",
+     "quantity": "1g",
      "strength": "78.5",
-     "disposable": "false",
      "price": "$41.99"
     },
     {
      "class": "Hybrid",
      "name": "Seaweed | MAX Green Rocks Cart",
-     "size": "1.5",
+     "type": "Cartridge",
+     "quantity": "1g",
      "strength": "58.7",
-     "disposable": "false",
      "price": "$44.99"
     },
     {
      "class": "Indica",
      "name": "Seaweed | MAX ZaZa Cart",
-     "size": "1.5",
+     "type": "Cartridge",
+     "quantity": "1g",
      "strength": "58.4",
-     "disposable": "false",
      "price": "$44.99"
     },
     {
      "class": "Indica",
      "name": "BOXHOT | Cherry Kush Cart",
-     "size": "1.2",
+     "type": "Cartridge",
+     "quantity": "1g",
      "strength": "83.3",
-     "disposable": "false",
      "price": "$45.51"
     },
     {
      "class": "Sativa",
      "name": "BOXHOT | Peach OG Cart",
-     "size": "1.2",
+     "type": "Cartridge",
+     "quantity": "1.2g",
      "strength": "83.3",
-     "disposable": "false",
      "price": "$45.51"
     },
     {
      "class": "Hybrid",
      "name": "BOXHOT | Alien OG Cart",
-     "size": "1.2",
+     "type": "Cartridge",
+     "quantity": "1.2g",
      "strength": "83.3",
-     "disposable": "false",
      "price": "$45.51"
     },
     {
      "class": "Hybrid",
      "name": "Greybeard | KISH Live Resin Cart",
-     "size": "1",
+     "type": "Cartridge",
+     "quantity": "1g",
      "strength": "74.0",
-     "disposable": "false",
      "price": "$45.99"
     },
     {
      "class": "Sativa",
      "name": "Greybeard | Slymer Live Resin Cart",
-     "size": "1",
+     "type": "Cartridge",
+     "quantity": "1g",
      "strength": "72.6",
-     "disposable": "false",
      "price": "$45.99"
     },
     {
      "class": "Sativa",
      "name": "BOXHOT | Nitro Cart",
-     "size": "2",
+     "type": "Cartridge",
+     "quantity": "2g",
      "strength": "50.0 THC \/ 25.0 CBG",
-     "disposable": "false",
      "price": "$54.99"
     },
     {
      "class": "Indica",
      "name": "Shred X | Blueberry Blaster Disposable",
-     "size": "0.3",
+     "type": "Disposable",
+     "quantity": "0.3g",
      "strength": "88.0",
-     "disposable": "true",
      "price": "$24.99"
     },
     {
      "class": "Indica",
      "name": "Lord Jones | Dead Head OG",
-     "size": "0.5",
+     "type": "Disposable",
+     "quantity": "0.5g",
      "strength": "74.0",
-     "disposable": "true",
      "price": "$31.99"
     },
     {
      "class": "Sativa",
      "name": "Lord Jones | Purple Lemon Haze",
-     "size": "0.5",
+     "type": "Disposable",
+     "quantity": "0.5g",
      "strength": "75.0",
-     "disposable": "true",
      "price": "$31.99"
     },
     {
      "class": "Sativa",
      "name": "Higgs | Live Resin Disposable",
-     "size": "0.5",
+     "type": "Disposable",
+     "quantity": "0.5g",
      "strength": "77.1",
-     "disposable": "true",
      "price": "$32.99"
     },
     {
      "class": "Hybrid",
      "name": "Sherbinskis | Orange Sherbs Live Resin",
-     "size": "0.5",
+     "type": "Disposable",
+     "quantity": "0.5g",
      "strength": "70.0",
-     "disposable": "true",
      "price": "$34.99"
     },
     {
      "class": "Indica",
      "name": "Sherbinskis | Pink Sherbs Live Resin",
-     "size": "0.5",
+     "type": "Disposable",
+     "quantity": "0.5g",
      "strength": "75.4",
-     "disposable": "true",
      "price": "$34.99"
     },
     {
      "class": "Indica",
      "name": "Tweed | Mango Haze Disposable",
-     "size": "1",
+     "type": "Disposable",
+     "quantity": "1g",
      "strength": "85.0",
-     "disposable": "true",
      "price": "$42.98"
     },
     {
      "class": "Hybrid",
      "name": "BOXHOT | Alien OG Disposable",
-     "size": "1",
+     "type": "Disposable",
+     "quantity": "1g",
      "strength": "85.0",
-     "disposable": "true",
      "price": "$42.99"
     },
     {
      "class": "Sativa",
      "name": "BOXHOT | Peach OG Disposable",
-     "size": "1",
+     "type": "Disposable",
+     "quantity": "1g",
      "strength": "82.2",
-     "disposable": "true",
      "price": "$42.99"
     }
    ]

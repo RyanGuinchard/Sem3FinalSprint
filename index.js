@@ -15,14 +15,10 @@ app.use(express.urlencoded({ extended: true }));
 
 // Use the cookie-parser middleware
 app.use(cookieParser());
-
-// Middleware
-// app.use((req, res, next) => {
-//     if (req.body._method) {
-//       req.method = req.body._method;
-//     }
-//     next();
-// });
+app.use((req, res, next) => {
+  console.log(`${req.method} ${req.path}`);
+  next();
+});
 
   // Add route files
   const inventoryRouter = require("./routes/inventoryRoutes");

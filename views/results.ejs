@@ -2,15 +2,33 @@
 <body>
   <h1>Search Results</h1>
   <%- include('./partials/nav') %>
-  <ul class="results">
-    <% results.forEach(result => { %>
-      <% if (result.results) { %>
-        <% result.results.forEach(doc => { %>
-          <li><%= doc.name %> - <%= doc.quantity %> - <%= doc.strength %> - <%= doc.price %></li>
-        <% }) %>
-      <% } else { %>
-        <li><%= result.name %> - <%= result.quantity %> - <%= result.strength %> - <%= result.price %></li>
-      <% } %>
-    <% }) %>
-  </ul>
+  <div class="container">
+    <ul class="results" style="list-style-type: none; padding: 0;">
+      <% results.forEach(result => { %>
+        <% if (result.results) { %>
+          <% result.results.forEach(doc => { %>
+            <li class="card">
+                <div>
+                    <p class="card-title"><%= doc.name %> - <%= doc.quantity %> - <%= doc.strength %></p>
+                    <p class="card-info">More details about the result.</p>
+                </div>
+                <div>
+                    <p class="card-price"><%= doc.price %></p>
+                </div>
+            </li>
+          <% }) %>
+        <% } else { %>
+          <li class="card">
+              <div>
+                  <p class="card-title"><%= result.name %> - <%= result.quantity %> - <%= result.strength %></p>
+                  <p class="card-info">Additional information here.</p>
+              </div>
+              <div>
+                  <p class="card-price"><%= result.price %></p>
+              </div>
+          </li>
+        <% } %>
+      <% }) %>
+    </ul>
+  </div>
 </body>

@@ -1,10 +1,20 @@
 <%- include('./partials/header.ejs') %>
-<h1><%- category %></h1>
-<%- include('./partials/nav.ejs') %>
 <body>
-    <ul class="product-list">
-        <% products.forEach(function(product) { %>
-            <li><%= product.name %> - <%- product.strength %>% - <%= product.price %></li>
-        <% }); %>
-    </ul>
+    <h1><%- category %></h1>
+    <%- include('./partials/nav.ejs') %>
+    <div class="container">
+        <ul class="product-list" style="list-style-type: none; padding: 0;">
+            <% products.forEach(function(product) { %>
+                <li class="card">
+                    <div>
+                        <p class="card-title"><%= product.name %> - <%- product.strength %>%</p>
+                        <p class="card-info">Some more details about the product can go here.</p>
+                    </div>
+                    <div>
+                        <p class="card-price"><%= product.price %></p>
+                    </div>
+                </li>
+            <% }); %>
+        </ul>
+    </div>
 </body>

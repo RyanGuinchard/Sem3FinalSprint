@@ -1,11 +1,11 @@
 CREATE TABLE public.vaporizer
 (
-    id bigserial NOT NULL,
+    id serial NOT NULL,
     class character varying(255) NOT NULL,
     name character varying(255) NOT NULL,
-    size numeric NOT NULL,
+    type character varying NOT NULL,
+    quantity character varying NOT NULL,
     strength character varying(255) NOT NULL,
-    disposable boolean NOT NULL,
     price character varying NOT NULL,
     PRIMARY KEY (id)
 );

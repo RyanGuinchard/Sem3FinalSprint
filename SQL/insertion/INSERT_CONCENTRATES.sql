@@ -47,7 +47,7 @@ VALUES
 -- Inserting SUBLINGUAL TABLETS data
 INSERT INTO public.concentrates (class, name, type, strength, price) 
 VALUES 
-('Hybrid', 'Edison | Arctic Cherry Jolts | 10pcs', 'SUBLINGUAL TABLETS', '10mg', '$17.99'),
-('Hybrid', 'Edison | Electric Lemon Jolts | 10pcs', 'SUBLINGUAL TABLETS', '10mg', '$17.99'),
-('Sativa', 'Edison | Freshly Minted Jolts | 10pcs', 'SUBLINGUAL TABLETS', '10mg', '$17.99'),
-('Hybrid', 'Pure Laine | THC Oral Strips | 10pcs', 'SUBLINGUAL TABLETS', '10mg', '$19.50');
+('Hybrid', 'Edison | Arctic Cherry Jolts | 10pcs', 'SUBLINGUAL TABLETS', '10mg THC', '$17.99'),
+('Hybrid', 'Edison | Electric Lemon Jolts | 10pcs', 'SUBLINGUAL TABLETS', '10mg THC', '$17.99'),
+('Sativa', 'Edison | Freshly Minted Jolts | 10pcs', 'SUBLINGUAL TABLETS', '10mg THC', '$17.99'),
+('Hybrid', 'Pure Laine | THC Oral Strips | 10pcs', 'SUBLINGUAL TABLETS', '10mg THC', '$19.50');

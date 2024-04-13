@@ -9,13 +9,14 @@
   </ul>
   <div>
     <% if (isLoggedIn) { %>
-    <a href="/users/logout"><button class="logout-btn">Logout</button></a>
+    <a href="/users/logout" class="button">Logout</a>
     <% if (isAdmin) { %>
-    <a href="/users/register"><button class="register-btn">Register User</button></a>
+    <a href="/users/register" class="button">Register User</a>
     <% } %>
     <% } else { %>
-    <a href="/users/login"><button class="signin-btn">Sign In</button></a>
+    
     <% } %>
-    <a href="/toggle-database"><button class="toggle-db-btn">Switch to <%= useMongoDB ? 'PostgreSQL' : 'MongoDB' %></button></a>
+    <a href="/toggle-database" class="button">Switch to <%= useMongoDB ? 'PostgreSQL' : 'MongoDB' %></a>
+    <a href="/users/login" class="signin-btn">Sign In</a>
   </div>
 </nav>
